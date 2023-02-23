@@ -1,0 +1,7 @@
+id,name,slug,display_name_singular,display_name_plural,icon,model_name,policy_name,controller,description,generate_permissions,server_side,details,created_at,updated_at
+1,users,users,User,Users,voyager-person,TCG\Voyager\Models\User,TCG\Voyager\Policies\UserPolicy,TCG\Voyager\Http\Controllers\VoyagerUserController,,1,0,,2021-05-31 03:16:08,2021-05-31 03:16:08
+2,menus,menus,Menu,Menus,voyager-list,TCG\Voyager\Models\Menu,,,,1,0,,2021-05-31 03:16:08,2021-05-31 03:16:08
+3,roles,roles,Role,Roles,voyager-lock,TCG\Voyager\Models\Role,,TCG\Voyager\Http\Controllers\VoyagerRoleController,,1,0,,2021-05-31 03:16:08,2021-05-31 03:16:08
+4,categories,categories,Category,Categories,voyager-categories,TCG\Voyager\Models\Category,,,,1,0,,2021-05-31 03:16:09,2021-05-31 03:16:09
+5,posts,posts,Post,Posts,voyager-news,TCG\Voyager\Models\Post,TCG\Voyager\Policies\PostPolicy,,,1,0,,2021-05-31 03:16:09,2021-05-31 03:16:09
+6,pages,pages,Page,Pages,voyager-file-text,TCG\Voyager\Models\Page,,,,1,0,,2021-05-31 03:16:09,2021-05-31 03:16:09

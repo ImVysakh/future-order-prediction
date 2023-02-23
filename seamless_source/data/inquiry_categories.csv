@@ -1,0 +1,7 @@
+id,name,created_at,updated_at,short_code
+1,Womenswear,2022-12-22 04:23:01,2022-12-22 04:23:01,women_wear
+2,Menswear,2022-12-22 04:23:01,2022-12-22 04:23:01,men_wear
+3,Kidswear,2022-12-22 04:23:01,2022-12-22 04:23:01,kid_wear
+4,Unisexwear,2022-12-22 04:23:01,2022-12-22 04:23:01,unisex
+5,Accessories,2022-12-22 04:23:01,2022-12-22 04:23:01,accessories
+6,Other,2022-12-22 04:23:01,2022-12-22 04:23:01,other

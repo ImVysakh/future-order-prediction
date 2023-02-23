@@ -1,0 +1,16 @@
+id,name,display_name,created_at,updated_at,parent_id
+1,admin,Administrator,2021-05-31 03:16:08,2021-05-31 03:16:08,
+2,account_manager,Account Manager,2021-05-31 03:16:13,2021-05-31 03:16:13,
+3,customer,Customer,2021-05-31 03:16:13,2021-05-31 03:16:13,
+4,supplier,Supplier,2021-05-31 03:16:13,2021-05-31 03:16:13,0
+5,design_maker,Design Maker,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+6,pattern_maker,Pattern Maker,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+7,technical_designer,Technical Designer,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+8,fabric_technician,Fabric Technician,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+9,quality_auditor,Quality Auditor,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+10,logistic_partner,Logistic Partner,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+11,manufacturer,Manufacturer ,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+12,fabric_supplier,Fabric Supplier,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+13,trim_supplier,Trim Supplier,2021-05-31 03:16:13,2021-05-31 03:16:13,4
+14,super_admin,Super Admin,2022-08-13 06:19:25,2022-08-13 06:19:25,
+15,user,Normal User,2022-08-13 06:19:53,2022-08-13 06:19:53,

@@ -1,0 +1,32 @@
+id,table_name,column_name,foreign_key,locale,value,created_at,updated_at
+1,data_types,display_name_singular,5,pt,Post,2021-05-31 03:16:09,2021-05-31 03:16:09
+2,data_types,display_name_singular,6,pt,Página,2021-05-31 03:16:09,2021-05-31 03:16:09
+3,data_types,display_name_singular,1,pt,Utilizador,2021-05-31 03:16:09,2021-05-31 03:16:09
+4,data_types,display_name_singular,4,pt,Categoria,2021-05-31 03:16:09,2021-05-31 03:16:09
+5,data_types,display_name_singular,2,pt,Menu,2021-05-31 03:16:09,2021-05-31 03:16:09
+6,data_types,display_name_singular,3,pt,Função,2021-05-31 03:16:09,2021-05-31 03:16:09
+7,data_types,display_name_plural,5,pt,Posts,2021-05-31 03:16:09,2021-05-31 03:16:09
+8,data_types,display_name_plural,6,pt,Páginas,2021-05-31 03:16:09,2021-05-31 03:16:09
+9,data_types,display_name_plural,1,pt,Utilizadores,2021-05-31 03:16:09,2021-05-31 03:16:09
+10,data_types,display_name_plural,4,pt,Categorias,2021-05-31 03:16:09,2021-05-31 03:16:09
+11,data_types,display_name_plural,2,pt,Menus,2021-05-31 03:16:09,2021-05-31 03:16:09
+12,data_types,display_name_plural,3,pt,Funções,2021-05-31 03:16:09,2021-05-31 03:16:09
+13,categories,slug,1,pt,categoria-1,2021-05-31 03:16:09,2021-05-31 03:16:09
+14,categories,name,1,pt,Categoria 1,2021-05-31 03:16:09,2021-05-31 03:16:09
+15,categories,slug,2,pt,categoria-2,2021-05-31 03:16:09,2021-05-31 03:16:09
+16,categories,name,2,pt,Categoria 2,2021-05-31 03:16:09,2021-05-31 03:16:09
+17,pages,title,1,pt,Olá Mundo,2021-05-31 03:16:09,2021-05-31 03:16:09
+18,pages,slug,1,pt,ola-mundo,2021-05-31 03:16:09,2021-05-31 03:16:09
+19,pages,body,1,pt,"<p>Olá Mundo. Scallywag grog swab Cat o'nine tails scuttle rigging hardtack cable nipper Yellow Jack. Handsomely spirits knave lad killick landlubber or just lubber deadlights chantey pinnace crack Jennys tea cup. Provost long clothes black spot Yellow Jack bilged on her anchor league lateen sail case shot lee tackle.</p>
+<p>Ballast spirits fluke topmast me quarterdeck schooner landlubber or just lubber gabion belaying pin. Pinnace stern galleon starboard warp carouser to go on account dance the hempen jig jolly boat measured fer yer chains. Man-of-war fire in the hole nipperkin handsomely doubloon barkadeer Brethren of the Coast gibbet driver squiffy.</p>",2021-05-31 03:16:09,2021-05-31 03:16:09
+20,menu_items,title,1,pt,Painel de Controle,2021-05-31 03:16:09,2021-05-31 03:16:09
+21,menu_items,title,2,pt,Media,2021-05-31 03:16:09,2021-05-31 03:16:09
+22,menu_items,title,12,pt,Publicações,2021-05-31 03:16:09,2021-05-31 03:16:09
+23,menu_items,title,3,pt,Utilizadores,2021-05-31 03:16:09,2021-05-31 03:16:09
+24,menu_items,title,11,pt,Categorias,2021-05-31 03:16:09,2021-05-31 03:16:09
+25,menu_items,title,13,pt,Páginas,2021-05-31 03:16:09,2021-05-31 03:16:09
+26,menu_items,title,4,pt,Funções,2021-05-31 03:16:09,2021-05-31 03:16:09
+27,menu_items,title,5,pt,Ferramentas,2021-05-31 03:16:09,2021-05-31 03:16:09
+28,menu_items,title,6,pt,Menus,2021-05-31 03:16:09,2021-05-31 03:16:09
+29,menu_items,title,7,pt,Base de dados,2021-05-31 03:16:10,2021-05-31 03:16:10
+30,menu_items,title,10,pt,Configurações,2021-05-31 03:16:10,2021-05-31 03:16:10

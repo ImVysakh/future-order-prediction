@@ -1,0 +1,5 @@
+id,name,created_at,updated_at,short_code
+1,Organic fabric,2022-12-22 04:23:01,2022-12-22 04:23:01,organic_fabric
+2,Woven fabric,2022-12-22 04:23:01,2022-12-22 04:23:01,woven_fabric
+3,Knit fabric,2022-12-22 04:23:01,2022-12-22 04:23:01,knit_fabric
+4,Non-woven fabric,2022-12-22 04:23:01,2022-12-22 04:23:01,non_woven_fabric

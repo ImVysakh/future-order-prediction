@@ -1,0 +1,10 @@
+id,display_name,country,region,certification,supplier_status,delivery_method,order,created_at,updated_at,icon,number_of_employees
+1,Design,1,1,0,1,0,1,2022-12-22 04:23:01,2022-12-22 04:23:01,DesignIcon,0
+2,Raw Material,1,1,1,1,0,2,2022-12-22 04:23:01,2022-12-22 04:23:01,RawMaterialIcon,0
+3,Spinning,1,1,1,1,0,3,2022-12-22 04:23:01,2022-12-22 04:23:01,SpinningIcon,0
+4,Weaving,1,1,1,1,0,4,2022-12-22 04:23:01,2022-12-22 04:23:01,WeavingIcon,0
+5,Dyeing,1,1,1,1,0,5,2022-12-22 04:23:01,2022-12-22 04:23:01,DyeingIcon,0
+6,Sampling,1,1,1,1,0,6,2022-12-22 04:23:01,2022-12-22 04:23:01,SamplingIcon,0
+7,Trims,1,1,1,1,0,7,2022-12-22 04:23:01,2022-12-22 04:23:01,TrimsIcon,0
+8,Manufacturing,1,1,1,1,0,8,2022-12-22 04:23:01,2022-12-22 04:23:01,ManufacturingIcon,1
+9,Delivery,0,0,0,1,1,9,2022-12-22 04:23:01,2022-12-22 04:23:01,DeliveryIcon,0

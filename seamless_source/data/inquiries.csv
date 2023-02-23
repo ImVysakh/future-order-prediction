@@ -1,0 +1,1407 @@
+id,created_by,style_number,order_number,product_type,bulk_order_quantity,colour_number,materials,currency,additional_information,deleted_at,created_at,updated_at,categories,account_manager_id,company_id,default_image,status,public_status,package,product_name_consumer,product_name_non_consumer,need_trace_approval,trace_rejected_comment,trace_tracking_code,style_name
+17,117,210528001LAA,1,24,1,1,4,GBP,,,2019-11-03 08:06:29,2022-06-03 16:21:12,6,402,12,,inactive,1,2,,,,,,
+18,117,210528002LAA,2,24,1,2,4,GBP,,,2019-11-03 08:07:04,2022-06-03 16:19:31,6,402,12,,inactive,1,2,,,,,,
+19,117,210528003LAA,3,24,1,2,4,GBP,,,2019-11-03 08:07:27,2022-06-03 16:22:43,6,402,12,,inactive,1,2,,,,,,
+20,117,210528004LAA,4,24,3,3,4,GBP,,,2019-11-03 08:08:05,2022-06-03 16:17:43,6,402,12,,inactive,1,2,,,,,,
+21,117,210528005LAA,5,24,1,1,4,GBP,,,2019-11-03 08:08:25,2022-06-03 16:16:46,6,402,12,,inactive,1,2,,,,,,
+22,117,210528006LAA,6,24,1,1,2,GBP,,,2019-11-03 08:10:23,2022-06-03 16:15:44,6,402,12,,inactive,1,2,,,,,,
+32,226,210528001KAA,1,23,50,1,2,USD,,,2020-03-02 15:40:23,2022-05-23 03:59:18,6,402,22,,inactive,1,2,,,,,,
+33,226,210528002KAA,2,23,50,1,2,USD,,,2020-03-02 15:41:30,2022-05-23 03:58:58,6,402,22,,inactive,1,2,,,,,,
+34,226,210528003KAA,3,3,40,1,4,USD,,,2020-03-02 15:42:34,2022-05-23 04:02:19,6,402,22,,inactive,1,2,,,,,,
+35,226,210528004KAA,4,3,40,1,4,USD,,,2020-03-02 15:43:18,2022-05-23 03:57:59,6,402,22,,inactive,1,2,,,,,,
+36,226,210528005KAA,5,3,40,1,4,USD,,,2020-03-02 15:44:11,2022-05-23 03:57:35,6,402,22,,inactive,1,2,,,,,,
+37,226,210528006KAA,6,3,40,1,4,USD,,,2020-03-02 15:45:05,2022-05-23 03:57:05,6,402,22,,inactive,1,2,,,,,,
+38,226,210528007KAA,7,3,40,1,4,USD,,,2020-03-02 15:45:49,2022-05-23 03:56:08,6,402,22,,inactive,1,2,,,,,,
+39,226,210528008KAA,8,3,50,1,4,USD,,,2020-03-02 15:48:09,2022-05-23 03:55:26,6,402,22,,inactive,1,2,,,,,,
+40,233,210528001MIA,1,3,10,2,1,GBP,,,2020-03-03 10:04:17,2022-06-03 16:14:54,6,402,24,,inactive,1,2,,,,,,
+47,239,210528001FAA,1,3,50,1,1,EUR,,,2020-04-03 15:05:19,2022-06-03 16:13:21,6,402,27,,inactive,1,2,,,,,,
+49,247,210528001DEA,1,3,200,4,4,USD,,,2020-04-23 07:55:53,2022-06-03 16:12:15,6,402,29,,inactive,1,2,,,,,,
+50,248,210528001FAB,1,1,200,3,1,USD,i would like to find manufactures with sustainability certifications. ,,2020-04-26 16:55:29,2022-06-03 16:11:25,6,402,30,,inactive,1,2,,,,,,
+51,247,210528002DEA,2,24,500,2,4,USD,i would like to find manufactures with sustainability certifications.,,2020-04-26 20:13:51,2022-06-03 16:01:56,6,402,29,,inactive,1,2,,,,,,
+52,248,210528002FAB,2,1,200,3,1,USD,we are looking for sustainable manufacture with the certifications,,2020-04-27 08:19:21,2022-06-03 16:00:52,6,402,30,,inactive,1,2,,,,,,
+53,250,210528001MAB,1,1,1,1,1,GBP,Sample size M,2022-05-11 13:38:30,2020-04-30 20:40:49,2022-05-11 13:38:30,6,,31,,active,1,0,,,,,,
+54,250,210528002MAB,2,1,1,1,1,GBP,Sample size M- Colour purple ,,2020-04-30 20:45:41,2022-06-03 16:00:06,6,402,31,,inactive,1,2,,,,,,
+55,250,210528003MAB,3,1,1,1,1,GBP,Sample size M- Colour as indicated in TP (purple and blue seams),,2020-04-30 20:47:26,2022-06-03 15:59:20,6,402,31,,inactive,1,2,,,,,,
+60,256,210528001RIA,1,13,1,1,4,GBP,Heat and water resistance. Easiness to wear.,,2020-05-20 18:07:03,2022-06-03 15:58:35,6,402,34,,inactive,1,2,,,,,,
+61,262,210528001BIA,1,3,50,2,4,USD,,,2020-06-02 12:19:16,2022-06-03 16:24:00,6,402,38,,inactive,1,2,,,,,,
+62,262,210528002BIA,2,3,50,2,4,USD,,,2020-06-02 12:24:01,2022-06-03 15:48:06,6,402,38,,inactive,1,2,,,,,,
+63,270,210528001MAC,1,3,100,1,4,GBP,"Sample- black 
+
+Material colors other
+Pinks
+Purples 
+Plum
+Blues
+Navy
+Charcoal
+Light grey
+Dark Grey
+Reds 
+Mustard yellow
+Teals
+*if there are any patterns that would works*
+Such as flowers, stripes, dots. Etc..",,2020-06-04 18:22:34,2022-06-03 15:47:33,6,402,44,,inactive,1,2,,,,,,
+87,281,210528001ADA,1,12,1,1,4,USD,,,2020-06-17 13:36:26,2022-06-01 20:38:39,6,402,51,,inactive,1,2,,,,,,
+89,283,210528001SPA,1,25,50,1,4,GBP,"Physio Treatment Couch Covers as discussed on Sewport. 
+
+Fitted couch cover with face-hole in wipe-clean fabric.  Must withstand regular antibacterial spray use.
+Might be possible with a vinyl/ PVC coated fabric? 
+Order quantity depends on cost per cover but minimum 50.  
+
+",,2020-06-18 21:43:54,2022-06-03 15:46:51,6,402,53,,inactive,1,2,,,,,,
+91,280,210528001MYA,1,3,1,3,4,GBP,"The selling price will be around 35£
+35 dresses pr color. 5 pr size
+Maybe 2-3 colors for this style 
+
+Link: https://www.zalando.dk/nly-by-nelly-flowy-button-dress-hverdagskjoler-white-neg21c0b6-a11.html",,2020-06-23 04:53:43,2022-06-03 15:40:28,6,402,50,,inactive,1,2,,,,,,
+92,280,210528002MYA,2,3,1,3,4,GBP,"Dresses will be sold around 35£
+2-3 colors pr dress 
+5 pieces PR size 
+35 pieces PR color
+
+Link: https://www.zalando.dk/only-onlnova-lux-34-shirt-dress-solid-hverdagskjoler-brown-on321c1tt-o11.html",,2020-06-23 04:56:27,2022-06-03 15:39:35,6,402,50,,inactive,1,2,,,,,,
+93,280,210528003MYA,3,3,1,3,4,GBP,"Dresses will be sold around 20£
+2-3 colors pr dress 
+5 pieces PR size 
+35 pieces PR color",,2020-06-23 04:58:37,2022-06-03 15:38:49,6,402,50,,inactive,1,2,,,,,,
+94,280,210528004MYA,4,3,1,3,4,GBP,"Dresses will be sold around 20£
+2-3 colors pr dress 
+5 pieces PR size 
+35 pieces PR color
+
+Link
+https://www.zalando.dk/esqualo-dress-long-wrapper-bohemian-hverdagskjoler-light-pink-esm21c002-j11.html",,2020-06-23 04:59:43,2022-06-03 15:36:52,6,402,50,,inactive,1,2,,,,,,
+95,289,210528001KEA,1,3,1,1,4,USD,"Oversized fit   
+80 cotton 10 polyester 10 Lycra 
+Medium/heavy weight fabric 
+Slight stretch 
+",,2020-06-23 16:09:10,2022-06-03 15:35:50,6,402,58,,inactive,1,2,,,,,,
+96,289,210528002KEA,2,3,1,1,4,USD,"Oversized crew neck 
+80 cotton 10 polyester 10 Lycra 
+Elongated length 
+Stretch fabric
+Medium/ heavy weight fabric",,2020-06-23 16:22:13,2022-06-03 15:35:14,6,402,58,,inactive,1,2,,,,,,
+97,289,210528003KEA,3,3,1,1,1,USD,"Oversized hoodie 
+Medium/heavy fabric
+80 cotton 10 polyester 10 Lycra 
+Slight stretch 
+Elongated length ",,2020-06-23 16:25:27,2022-06-03 15:34:32,6,402,58,,inactive,1,2,,,,,,
+100,272,210528001RIB,1,3,100,2,4,GBP,"I  have tabs below on the spreadsheet with design 01, 02 (both the same with same styling number but the difference is black and white and 03.
+
+Also i need help with a socks tech pack",,2020-06-24 20:03:01,2022-05-27 15:22:36,6,402,46,,inactive,1,2,,,,,,
+101,299,210528001VEA,1,3,25,1,4,USD,,,2020-06-29 04:21:46,2022-06-03 15:33:51,6,402,65,,inactive,1,2,,,,,,
+102,299,210528002VEA,2,3,25,1,4,USD,,,2020-06-29 04:22:52,2022-06-03 04:51:48,6,402,65,,inactive,1,2,,,,,,
+103,299,210528003VEA,3,3,25,1,4,USD,,,2020-06-29 04:23:31,2022-06-03 04:50:39,6,402,65,,inactive,1,2,,,,,,
+104,305,210528001ORA,1,12,300,3,1,GBP,Baby outfits in the style of the attached design. 3 different fabric patterns (100 in each pattern). Fabric patterns along the lines of the 2 designs attached + one other.,,2020-06-30 19:23:18,2022-06-03 04:49:45,6,402,70,,inactive,1,2,,,,,,
+105,305,210528002ORA,2,12,200,2,1,GBP,Baby outdoor outfits in the style of the attached designs. 2 different fabric patterns (100 in each pattern).,,2020-06-30 20:46:27,2022-06-03 04:48:48,6,402,70,,inactive,1,2,,,,,,
+107,309,2105280014EA,1,3,50,3,1,GBP,,,2020-07-01 13:31:23,2022-06-03 04:47:52,6,402,72,,inactive,1,2,,,,,,
+108,297,210528001SAA,1,4,1,1,4,GBP,Stitching requirements may need to be discussed further.,,2020-07-03 14:32:58,2022-06-03 04:46:54,6,402,63,,inactive,1,2,,,,,,
+109,315,210528001COA,1,4,100,1,4,GBP,,,2020-07-05 16:38:55,2022-06-03 15:48:37,6,402,76,,inactive,1,2,,,,,,
+110,318,210528001ACB,1,1,200,2,4,GBP,"I have completed the tech pack development file with all the key information. As mentioned, the attached two logos are what I would look to use as it did not allow me to add them to the sheet. The order would be 100 in one colour and 100 in another colour but using the same design and tech pack. The pack I have attached is for the first of the colours. I have simplistic design in mind which should be quite easy to create.",,2020-07-07 18:24:22,2022-06-03 16:25:51,6,402,78,,inactive,1,2,,,,,,
+112,319,210528001UNB,1,3,6,3,4,USD,,,2020-07-08 14:59:10,2022-06-03 16:27:29,6,402,79,,inactive,1,2,,,,,,
+115,290,210528001GEB,1,10,50,1,4,GBP,Payment will be made by my client (based in Australia). Colours TBC - will be between 1 and 3.,,2020-07-14 10:43:13,2022-06-01 20:21:59,6,402,59,,inactive,1,2,,,,,,
+116,290,210528002GEB,2,10,50,1,4,GBP,Payments to be made by my client (based in Australia). Colours also TBC - between 1  and  3. Design for elastic also TBC.,,2020-07-14 10:44:44,2022-06-01 20:28:46,6,402,59,,inactive,1,2,,,,,,
+117,290,210528003GEB,3,13,50,1,1,USD,"Fabrics selected as organic, but these should be a faux leather outer, with cotton lining. ",,2020-07-16 14:40:54,2022-06-01 20:28:06,6,402,59,,inactive,1,2,,,,,,
+118,324,210528001HAA,1,23,100,4,4,GBP,"4 colours and 4 different embroidery options, in adult version and baby - toddler",,2020-07-17 14:44:17,2022-06-03 04:33:02,6,402,83,,inactive,1,2,,,,,,
+119,324,210528002HAA,2,23,100,4,4,GBP,"4 colours and 4 different embroidery options, in adult version and baby - toddler",,2020-07-17 14:44:26,2022-06-03 04:32:28,6,402,83,,inactive,1,2,,,,,,
+120,324,210528003HAA,3,12,100,2,4,GBP,,,2020-07-17 14:57:01,2022-06-03 04:31:52,6,402,83,,inactive,1,2,,,,,,
+121,324,210528004HAA,4,3,150,3,2,GBP,this will be a core line so we will ideally introduce more design patterns of pyjamas ,,2020-07-17 15:04:13,2022-06-03 04:31:16,6,402,83,,inactive,1,2,,,,,,
+122,324,210528005HAA,5,12,150,3,1,GBP,"this will be a core range really want to produce a lovely sleep suit that&#039;s soft, washes really well in a range of lovely prints matching the mum pyjamas ",,2020-07-17 15:05:55,2022-06-03 04:30:41,6,402,83,,inactive,1,2,,,,,,
+123,324,210528006HAA,6,12,75,1,4,GBP,really want this to be lovely jersey thin rib with embroidery so it would be a core range and produce in different colours ,,2020-07-17 15:07:50,2022-06-03 04:30:09,6,402,83,,inactive,1,2,,,,,,
+124,324,210528007HAA,7,3,75,1,4,GBP,exactly the same material as the baby wildflower romper jersey and colour so it matches,,2020-07-17 15:10:51,2022-06-03 04:29:42,6,402,83,,inactive,1,2,,,,,,
+125,324,210528008HAA,8,3,400,4,2,GBP,really want this to be soft chenille fabric so lovely to touch and have really fluffy faux fur pom moms so they look premium ,,2020-07-17 15:13:00,2022-06-03 04:27:06,6,402,83,,inactive,1,2,,,,,,
+129,324,210528009HAA,9,12,200,2,2,GBP,really wanted to produce this romper in a tie-dye effect so it matches the tie dye co-ord also,,2020-07-17 15:56:09,2022-06-03 04:29:12,6,402,83,,inactive,1,2,,,,,,
+130,324,210528010HAA,10,3,100,1,2,GBP,would love to look at lines you already produce for knit jumpers and skirts we could dye or change the colour to suit if that helps with production cost,,2020-07-17 15:59:32,2022-06-03 04:28:52,6,402,83,,inactive,1,2,,,,,,
+131,324,210528011HAA,11,3,100,1,4,GBP,this is a piece I am happy to take suggestions on I wanted to produce a women&#039;s co-ord in a muted cloudy tie-dye colour so we could also have a baby matching romper dress to suit ,,2020-07-17 16:03:39,2022-06-03 04:28:32,6,402,83,,inactive,1,2,,,,,,
+132,323,210528001WIA,1,10,1080,2,1,GBP,Please note that all designs and mood boards are in the same file different tabs,,2020-07-19 09:58:07,2022-06-03 04:46:03,6,402,82,,inactive,1,2,,,,,,
+133,325,210528001MAE,1,10,100,2,4,USD,"This is an idealised service deadline. We would be looking for a supplier to create a total of 200 pieces in two different colour ways, 100 black and 100 white. Attached is design inspiration we have put together to give a visual representation of how we wish for these designs to look. It is important to note, we would be wanting the elastic to be knitted with our logo name as visualised in these images, the base fabric we can be more flexible on.",,2020-07-19 14:38:02,2022-06-01 20:37:58,6,402,84,,inactive,1,2,,,,,,
+134,323,210528002WIA,2,10,550,2,1,GBP,Its design 1 on the attached spreadsheet,,2020-07-20 07:28:36,2022-06-03 04:45:24,6,402,82,,inactive,1,2,,,,,,
+135,323,210528003WIA,3,10,1080,2,1,GBP,Design 3 on the spreadsheet,,2020-07-20 07:36:31,2022-06-03 04:44:41,6,402,82,,inactive,1,2,,,,,,
+136,323,210528004WIA,4,10,1080,2,1,GBP,Design 4 on the spread sheet,,2020-07-20 07:45:03,2022-06-03 04:43:57,6,402,82,,inactive,1,2,,,,,,
+137,323,210528005WIA,5,10,1250,1,1,GBP,Its design 5 on the spreadsheet,,2020-07-20 07:59:05,2022-06-03 04:42:31,6,402,82,,inactive,1,2,,,,,,
+138,323,210528006WIA,6,10,750,1,1,GBP,Design 6 on the spreadsheet,,2020-07-20 08:03:50,2022-06-03 04:43:12,6,402,82,,inactive,1,2,,,,,,
+139,323,210528007WIA,7,10,1400,1,1,GBP,Design 7 on the spreadsheet,,2020-07-20 08:09:04,2022-06-03 04:39:35,6,402,82,,inactive,1,2,,,,,,
+143,326,210528001COB,1,4,100,1,4,USD,"composition: 98.50% cotton 1.50% elastane/spandex
+
+Distressed denim with ribbed bandana sewed underneath distressed area.
+use black leather with white font or black leather which is engraved. 
+",,2020-07-20 20:53:44,2022-06-03 04:38:48,6,402,85,,inactive,1,2,,,,,,
+144,327,210528001LEA,1,3,120,4,4,GBP,"Need 1 sample of each colour printed with all labels in  large , file sent is fabric colours we would want with logo design on them ideal fabric would be 220 gsm -250 gsm soft thick high quality in charcoal, stone and  mint and light blue or rust if we could find these and get these across that would be great We would like a brand label 3 cm by 3 cm that will be the black full logo with gold eagle white wordmark and gold numerals add sizes to this and that will make it easier instead of 2 labels the front logo need to sit on front chest middle added main design for references to positions want it around 12 cm wider 2.5 cm in height rear logo white eagle wings 5cm wide x 2 cm we will want either a heat transfer print screen print or reflective print on logos depending on cost care label as same as before logos to be white you will find these in logo pack",,2020-07-21 11:50:16,2022-06-03 04:38:08,6,402,86,,inactive,1,2,,,,,,
+149,329,210528001MOA,1,1,500,2,4,GBP,,,2020-07-21 17:11:49,2022-05-31 05:21:07,6,402,87,,inactive,1,2,,,,,,
+151,331,210528001ROA,1,3,100,1,4,GBP,Sample should be done in an XL,,2020-07-23 09:31:00,2022-06-03 04:41:06,6,402,88,,inactive,1,2,,,,,,
+152,331,210528002ROA,2,3,100,1,4,GBP,"The cap should be 63.5 in CM and 25 IN.
+Cap size 8 ",,2020-07-23 09:38:55,2022-06-03 04:40:23,6,402,88,,inactive,1,2,,,,,,
+153,354,210528001ACC,1,1,500,2,1,GBP,"500 units altogether, it would be broken down into 5 styles and two colors at 50 units each. ",,2020-07-29 14:30:38,2022-06-03 04:37:24,6,402,93,,inactive,1,2,,,,,,
+154,357,210528001EVA,1,12,100,16,4,GBP,I have 16 tech packs in total- i will email them to you,,2020-07-30 11:23:17,2022-06-03 04:36:36,6,402,95,,inactive,1,2,,,,,,
+155,360,210528001LAB,1,3,50,9,1,USD,"i have two more things too upload. just don&#039;t where to fit it in attachments. 
+
+I am wanting seaweed fiber and clay dyeing. 
+alternative plant based dye but I&#039;m really wanting the clay dye for my clothing brand, thanks so much!!!",,2020-08-01 09:24:57,2022-06-03 04:35:58,6,402,97,,inactive,1,2,,,,,,
+156,360,210528002LAB,2,3,50,6,1,USD,"hi there,
+
+looking for seaweed fiber and clay dyeing for my sustainable clothing brand.
+
+thanks,
+Rainn Lewis",,2020-08-01 09:27:26,2022-06-03 04:41:48,6,402,97,,inactive,1,2,,,,,,
+157,281,210528002ADA,2,12,250,3,4,GBP,All Timeline dates are when series need to be COMPLETED BY.,,2020-08-01 19:57:17,2022-06-01 20:36:44,6,402,51,,inactive,1,2,,,,,,
+158,281,210528003ADA,3,12,120,2,4,GBP,All services are dated for when they need to be COMPLETED BY.,,2020-08-01 19:59:32,2022-06-01 20:36:03,6,402,51,,inactive,1,2,,,,,,
+159,281,210528004ADA,4,12,110,2,4,GBP,All dates are for when services are to be COMPLETED BY.,,2020-08-01 20:01:17,2022-06-01 20:35:01,6,402,51,,inactive,1,2,,,,,,
+160,281,210528005ADA,5,12,110,1,4,GBP,All dates are for when services are to be COMPLETED BY.,,2020-08-01 20:02:51,2022-06-01 20:34:28,6,402,51,,inactive,1,2,,,,,,
+161,281,210528006ADA,6,12,140,3,4,GBP,All dates are for when services are to be COMPLETED BY.,,2020-08-01 20:04:37,2022-06-01 20:33:54,6,402,51,,inactive,1,2,,,,,,
+163,364,210528001SAB,1,4,100,1,4,USD,"Hello, 
+
+I believe a starter pack has already been made for me by Chanodil, however I have had to make a new account so could not view it. can you please email it to me.
+
+For more details on the product please see link below.
+https://1drv.ms/u/s!AkbCdzCxBuPKjA5vhM5VnnkGrPe6?e=DYXlgT
+
+Thank you.",,2020-08-04 16:40:40,2022-06-03 16:29:54,6,402,99,,inactive,1,2,,,,,,
+164,366,210528001JBA,1,3,58,2,4,USD,Shirt with high quality,,2020-08-04 17:46:10,2022-12-11 14:38:55,6,402,100,,inactive,1,2,,,,,,test
+165,324,210528012HAA,12,12,100,1,4,GBP,,,2020-08-05 10:51:44,2022-06-03 04:28:12,6,402,83,,inactive,1,2,,,,,,
+166,324,210528013HAA,13,12,100,1,4,GBP,,,2020-08-05 10:51:48,2022-06-03 04:27:54,6,402,83,,inactive,1,2,,,,,,
+169,324,210528014HAA,14,23,100,3,2,GBP,also cost for 100 of each kids ,,2020-08-06 07:42:56,2022-06-02 19:38:17,6,402,83,,inactive,1,2,,,,,,
+170,324,210528015HAA,15,23,100,3,2,GBP,also cost for 100 of each kids ,,2020-08-06 07:42:59,2022-06-03 04:27:32,6,402,83,,inactive,1,2,,,,,,
+171,324,210528016HAA,16,23,100,3,2,GBP,also cost for 100 of each kids ,,2020-08-06 07:43:07,2022-06-02 19:39:44,6,402,83,,inactive,1,2,,,,,,
+172,281,210528007ADA,7,12,150,3,4,GBP,"Simple, lounge one-piece with pant zipper inseam like all other one pieces. Long sleeve. ",,2020-08-11 02:27:19,2022-06-01 20:33:07,6,402,51,,inactive,1,2,,,,,,
+173,375,210528001MAF,1,3,300,5,4,USD,,,2020-08-12 09:47:05,2022-06-01 20:32:31,6,402,103,,inactive,1,2,,,,,,
+176,375,210528002MAF,2,3,40000,4,4,USD,,,2020-08-12 09:49:01,2022-06-01 20:31:52,6,402,103,,inactive,1,2,,,,,,
+177,378,210528001LUA,1,12,120,4,4,USD,Short sleeve footed pajamas,,2020-08-13 00:48:21,2022-06-03 16:33:11,6,402,106,,inactive,1,2,,,,,,
+178,378,210528002LUA,2,12,160,4,4,USD,"For momma,daddy, and gma/pa onesies",,2020-08-13 01:04:19,2022-06-03 16:35:05,6,402,106,,inactive,1,2,,,,,,
+179,270,210528002MAC,2,10,50,3,4,USD,,,2020-08-13 20:54:13,2022-06-03 16:36:57,6,402,44,,inactive,1,2,,,,,,
+180,270,210528003MAC,3,3,50,5,4,USD,,,2020-08-13 20:56:11,2022-06-03 16:38:44,6,402,44,,inactive,1,2,,,,,,
+181,256,210528002RIA,2,22,3,3,3,GBP,200723001RG,,2020-08-15 22:54:20,2022-11-17 11:02:44,6,402,34,,inactive,1,2,,,,,,
+188,381,210528001MAG,1,3,70,1,4,GBP,"Post to
+
+5 fairlawn grove
+Chiswick
+London
+W4 5EL
+UNITED KINGDOM",,2020-08-16 23:44:32,2022-05-24 05:34:44,6,402,108,,inactive,1,2,,,,,,
+189,382,210528001YAA,1,1,450,3,4,USD,,,2020-08-17 08:42:09,2022-06-03 16:42:21,6,402,109,,inactive,1,2,,,,,,
+190,383,210528001FRB,1,13,250,2,4,Any,"We would like to request some sample to validate the supplier (which include fabrics, samples) and upon our approval, we go for a mini order 50 samples and then produce the rest of 250. Please obtain quotes for 100, 250, 500, 1K, 2.5K, and 5K so we can decide the best value for money quantity going forward. All materials to be ethically sourced and materials to be approved by the client before proceed for next steps. ",,2020-08-19 04:20:43,2022-06-03 17:14:42,6,402,110,,inactive,1,2,,,,,,
+192,384,210528001KEB,1,5,70,1,4,GBP,,,2020-08-19 06:30:25,2022-05-27 15:45:51,6,402,111,,inactive,1,2,,,,,,
+197,393,210528001CLA,1,4,60,1,4,GBP,,,2020-08-25 18:23:27,2022-06-03 17:15:34,6,402,114,,inactive,1,2,,,,,,
+198,393,210528002CLA,2,4,60,1,4,GBP,,,2020-08-25 19:00:01,2022-06-03 17:16:31,6,402,114,,inactive,1,2,,,,,,
+199,393,210528003CLA,3,4,60,2,4,GBP,,,2020-08-25 19:28:48,2022-06-03 17:17:14,6,402,114,,inactive,1,2,,,,,,
+280,397,210528001CHA,1,1,200,3,4,USD,,,2020-09-02 10:10:17,2022-06-03 17:18:03,6,402,117,,inactive,1,2,,,,,,
+281,397,210528002CHA,2,1,200,3,4,USD,,,2020-09-02 10:21:42,2022-06-03 16:18:33,6,402,117,,inactive,1,2,,,,,,
+282,397,210528003CHA,3,3,200,2,4,USD,,,2020-09-02 10:26:50,2022-06-03 17:40:14,6,402,117,,inactive,1,2,,,,,,
+283,290,210528004GEB,4,13,33,1,1,GBP,"Similar to photos as attached.
+Artwork and dimensions TBC, we are just hoping to find out rough costs for this type of packaging. Thanks!",,2020-09-03 09:55:19,2022-06-01 20:27:29,6,402,59,,inactive,1,2,,,,,,
+284,403,210528001STC,1,7,50,3,4,EUR,I just want to figure out a price before going forward ,,2020-09-04 19:36:46,2022-06-03 17:40:49,6,402,123,,inactive,1,2,,,,,,
+285,290,210528005GEB,5,3,80,1,1,USD,,,2020-09-07 11:24:59,2022-06-01 20:26:58,6,402,59,,inactive,1,2,,,,,,
+287,250,210528004MAB,4,1,1,1,1,GBP,"Please find attached Techpack- Final Measurements- Color request.
+Sample size - MEDIUM
+Colour - Blue or Red Cherry (Please confirm color available before start sample)
+Take into consideration the waistband design (low scoop)",,2020-09-07 21:37:19,2022-06-03 17:41:28,6,402,31,,inactive,1,2,,,,,,
+288,250,210528005MAB,5,1,1,1,1,GBP,"Please find attached the Final measurements, Techpack and color request.
+Sample size = Medium
+Color: Purple, Red cherry, pink, Green (Please confirm color available before start with sample)
+Please consider the construction of the inner bra (It must cover the breast)",,2020-09-07 21:43:52,2022-06-03 17:42:03,6,402,31,,inactive,1,2,,,,,,
+289,250,210528006MAB,6,1,1,1,1,GBP,"Please find attached Final measurements and Techpack
+Sample size- MEDIUM
+Color - Purple, Pink and Green (Please confirm color available before start sample)
+Take into consideration the front design of the top (it must cover the inner bra) as well as the side seams 
+If the click is available please use a white one or similar one",2022-05-11 13:38:16,2020-09-07 21:48:41,2022-05-11 13:38:16,6,,31,,active,1,0,,,,,,
+290,329,210528002MOA,2,10,200,1,4,USD,"Please use link below to access videos and pictures of shapewear
+
+https://drive.google.com/drive/folders/19zMZGXw5660OiHOPsg5AZ08z43zgM9h9?usp=sharing",,2020-09-08 22:32:52,2022-06-03 17:43:02,6,402,87,,inactive,1,2,,,,,,
+291,329,210528003MOA,3,10,400,1,4,USD,"Please use link below to access detailed photos and videos of shapewear
+
+https://drive.google.com/drive/folders/19zMZGXw5660OiHOPsg5AZ08z43zgM9h9?usp=sharing",,2020-09-08 22:34:01,2022-06-03 17:43:25,6,402,87,,inactive,1,2,,,,,,
+293,407,210528001STD,1,7,50,3,4,EUR,Im Looking to set up tek pack first ,,2020-09-13 03:13:33,2022-06-03 17:44:01,6,402,126,,inactive,1,2,,,,,,
+294,407,210528002STD,2,7,50,3,4,EUR,Im Looking to set up tek pack first ,,2020-09-13 03:13:37,2022-06-03 17:44:33,6,402,126,,inactive,1,2,,,,,,
+299,408,210528001UNC,1,3,30,3,4,GBP,,,2020-09-13 22:49:11,2022-06-03 04:35:16,6,402,127,,inactive,1,2,,,,,,
+300,381,210528002MAG,2,3,60,1,4,GBP,These trousers but with white or cream corduroy fabric,,2020-09-14 08:22:55,2022-05-24 05:34:22,6,402,108,,inactive,1,2,,,,,,
+301,290,210528006GEB,6,10,50,2,1,GBP,"We have already sourced fabric, and have patterns for these styles. Can you provide details on sampling costs? And a rough CMT cost please?
+Demi ",,2020-09-15 10:41:43,2022-06-01 20:26:25,6,402,59,,inactive,1,2,,,,,,
+302,290,210528007GEB,7,10,50,2,1,GBP,"We have already sourced fabric, and have patterns for these styles. Can you provide details on sampling costs? And a rough CMT cost please?
+Demi ",,2020-09-15 10:42:24,2022-06-01 20:25:54,6,402,59,,inactive,1,2,,,,,,
+303,290,210528008GEB,8,10,50,2,1,GBP,"We have already sourced fabric, and have patterns for these styles. Can you provide details on sampling costs? And a rough CMT cost please?
+Demi ",,2020-09-15 10:43:01,2022-06-01 20:25:12,6,402,59,,inactive,1,2,,,,,,
+304,408,210528002UNC,2,3,30,3,4,GBP,Excel document ,,2020-09-21 14:02:38,2022-06-03 04:34:11,6,402,127,,inactive,1,2,,,,,,
+305,415,210528001BYA,1,24,500,-6,2,USD,I am looking for a manufacturer who can produce towels. I looking to have delivery by November.,,2020-09-23 10:50:59,2022-06-03 17:45:04,6,402,133,,inactive,1,2,,,,,,
+306,284,210528001GAA,1,1,300,2,1,GBP,,,2020-09-23 18:53:37,2022-06-03 17:45:33,6,402,54,,inactive,1,2,,,,,,
+311,287,210528001PLA,1,25,100,2,4,USD,"Interested in manufacturing scrub medical uniforms
+- fabric should be about 25-30% polyester , and 70-75 % stretch so that it can be comfortable and fit different body types ( IT CAN NOT BE SEE THROUGH) : Stretch polyester fabric
+- Paper patterns are available and Tech packs are attached
+- Sample needs to be provided by company BEFORE an in bulk purchase is made
+- Designs can be shared upon company request and once an agreement is in place",,2020-09-23 20:31:22,2022-06-03 17:46:08,6,402,57,,inactive,1,2,,,,,,
+312,405,210528001MOB,1,5,50,1,4,USD,"Hello ,
+Hope your well.
+I have attached a sketch of the amendment for the sample . I will have to get rid of the neck piece as it’s too big and pulls too much on the right side , which will increase space between neck and collar piece of the dress",,2020-09-24 17:57:40,2022-05-31 05:21:55,6,402,124,,inactive,1,2,,,,,,
+315,408,210528003UNC,3,1,200,3,4,GBP,"3 colour= 1 black,2 beige ,3 white ",,2020-09-26 19:47:24,2022-06-03 04:34:43,6,402,127,,inactive,1,2,,,,,,
+316,427,210528001N/A,1,24,100,5,1,Any,,,2020-09-27 10:56:26,2022-06-03 17:46:48,6,402,137,,inactive,1,2,,,,,,
+317,377,210528001SEB,1,4,150,2,4,GBP,,,2020-09-30 15:22:30,2022-06-03 17:47:33,6,402,105,,inactive,1,2,,,,,,
+318,377,210528002SEB,2,4,150,2,4,USD,,,2020-09-30 15:23:49,2022-06-03 17:48:13,6,402,105,,inactive,1,2,,,,,,
+320,433,210528001CHB,1,10,500,3,1,GBP,"Hi
+
+Am making enquire about the attached techpack as I am interested in getting the samples produce. Can someone let me the cost etc",,2020-10-02 20:27:34,2022-06-03 17:49:02,6,402,140,,inactive,1,2,,,,,,
+321,433,210528002CHB,2,10,500,3,1,GBP,"Hi
+
+Let me know the price to develop the sampling of the attached techpacks ",,2020-10-02 20:32:27,2022-06-03 17:49:39,6,402,140,,inactive,1,2,,,,,,
+322,442,210528001CHC,1,1,50,1,4,USD,,,2020-10-08 08:22:04,2022-05-23 07:02:04,6,402,143,,inactive,1,2,,,,,,
+323,393,210528004CLA,4,4,60,1,4,GBP,,,2020-10-22 20:16:15,2022-06-03 17:50:13,6,402,114,,inactive,1,2,,,,,,
+324,393,210528005CLA,5,4,50,1,4,GBP,,,2020-10-22 20:20:00,2022-06-03 17:50:49,6,402,114,,inactive,1,2,,,,,,
+325,393,210528006CLA,6,4,50,3,4,GBP,,,2020-10-22 20:25:03,2022-06-03 17:51:45,6,402,114,,inactive,1,2,,,,,,
+326,460,210528001KAB,1,12,50,4,4,USD,,,2020-10-23 01:57:30,2022-06-03 17:52:29,6,402,149,,inactive,1,2,,,,,,
+327,460,210528002KAB,2,12,50,4,4,USD,,,2020-10-23 01:57:33,2022-06-03 17:53:10,6,402,149,,inactive,1,2,,,,,,
+328,460,210528003KAB,3,12,50,4,4,USD,,,2020-10-23 01:57:41,2022-06-03 17:53:56,6,402,149,,inactive,1,2,,,,,,
+330,290,210528009GEB,9,3,200,1,4,USD,"All fabric, sizing, construction  and  target price details in Tech Pack.",,2020-10-26 09:34:51,2022-06-01 20:24:20,6,402,59,,inactive,1,2,,,,,,
+331,290,210528010GEB,10,3,200,1,4,USD,"All fabric, sizing, target cost price and construction details in Tech Pack.",,2020-10-26 09:37:44,2022-06-01 20:23:43,6,402,59,,inactive,1,2,,,,,,
+332,290,210528011GEB,11,3,200,1,4,USD,"All fabric, sizing, target cost price and construction details in Tech Pack.",,2020-10-26 09:40:51,2022-06-01 20:23:14,6,402,59,,inactive,1,2,,,,,,
+333,290,210528012GEB,12,3,200,1,4,USD,"This design needs a heavier weight fabric to all others.
+
+All fabric, sizing, target cost price and construction details in Tech Pack.",,2020-10-26 09:42:34,2022-06-01 20:22:45,6,402,59,,inactive,1,2,,,,,,
+334,290,210528013GEB,13,3,200,1,4,USD,"All fabric, sizing, target cost price and construction details in Tech Pack.",,2020-10-26 09:43:31,2022-06-01 20:21:17,6,402,59,,inactive,1,2,,,,,,
+335,466,210528001EAA,1,10,10,4,4,GBP,To be discussed as can&#039;t select other options needed,,2020-10-28 18:11:20,2022-06-01 20:20:38,6,402,152,,inactive,1,2,,,,,,
+336,476,210528001DUA-201102001MIK,1,13,50,2,1,USD,Materials to be confirmed,,2020-11-03 06:03:26,2022-05-20 03:07:04,6,402,156,,active,1,2,,,,,,
+337,476,210528002DUA-201102003MIK,2,13,50,2,1,USD,,,2020-11-03 06:05:10,2022-05-23 19:01:03,6,402,156,,inactive,1,2,,,,,,
+338,476,210528003DUA-201102002MIK,3,13,50,2,1,USD,,,2020-11-03 06:06:32,2022-05-23 19:00:41,6,402,156,,inactive,1,2,,,,,,
+339,476,210528004DUA-201102004MIK,4,13,50,2,1,Any,,,2020-11-03 06:07:31,2022-05-23 19:00:15,6,402,156,,inactive,1,2,,,,,,
+344,684,210528001BOB,1,10,1,2,4,GBP,,,2020-11-12 04:28:39,2022-06-01 20:18:15,6,402,161,,inactive,1,2,,,,,,
+345,684,210528002BOB,2,10,1,2,4,GBP,,,2020-11-12 04:38:59,2022-06-01 20:13:36,6,402,161,,inactive,1,2,,,,,,
+346,686,210528001CEA,1,3,40,2,2,USD,Th fabric must be 100% cupro silk,,2020-11-14 18:09:01,2022-06-01 20:12:22,6,402,162,,inactive,1,2,,,,,,
+347,686,210528002CEA,2,3,40,2,4,USD,"This sleepwear comes with a short
+100% knitted supima cotton",,2020-11-14 18:12:12,2022-06-01 20:10:22,6,402,162,,inactive,1,2,,,,,,
+348,688,210528001MYC-201115001MAB,1,12,100,3,1,GBP,"Product description: Baby grow
+Ages: 
+newborn 
+0-1
+0 - 3
+3 - 6
+6 - 9
+9 - 12
+12 - 18
+
+Pantone&#039;s
+
+Bright white: 11-0601 TPX
+
+Nimbus Cloud: 13-4108 TCX
+
+Navy Peony: 19-4029
+
+Baby PINK: 70C
+
+Aqua Glass: 12-5407 TCX
+
+Mustard: 124 XGC ",,2020-11-15 16:51:57,2022-06-01 20:06:29,6,402,163,,inactive,1,2,,,,,,
+349,688,210528002MYC-201115002MAB,2,12,270,3,1,GBP,"Pantone&#039;s
+
+Bright white: 11-0601 TPX
+
+Nimbus Cloud: 13-4108 TCX
+
+Navy Peony: 19-4029
+
+Baby PINK: 70C
+
+Aqua Glass: 12-5407 TCX
+
+Mustard: 124 XGC ",,2020-11-15 16:53:34,2022-06-01 20:04:34,6,402,163,,inactive,1,2,,,,,,
+350,159,210528001NEA,1,1,1,1,4,GBP,"tech pack as sent 18th November, revision to come",,2020-11-18 18:54:44,2022-06-01 20:03:22,6,402,20,,inactive,1,2,,,,,,
+351,159,210528002NEA-201116002NL,2,1,1,1,4,GBP,"tech pack as sent 18th November, revision to come",,2020-11-18 18:56:05,2022-06-01 20:01:54,6,402,20,,inactive,1,2,,,,,,
+352,694,210528001SUB,1,7,12,6,4,Any,,,2020-11-22 04:40:19,2022-06-01 20:00:34,6,402,168,,inactive,1,2,,,,,,
+353,688,210528003MYC-201115003MAB,3,12,50,2,4,GBP,"Product description: Baby grow
+- With  poppers
+Ages: 
+newborn
+up to 1month
+0 - 3
+3 - 6
+6 - 9
+9 - 12
+12 - 18
+
+Pantone&#039;s
+
+Bright white: 11-0601 TPX
+
+Nimbus Cloud: 13-4108 TCX
+
+Navy Peony: 19-4029
+
+Baby PINK: 70C
+
+Aqua Glass: 12-5407 TCX
+
+Mustard: 124 XGC ",,2020-11-22 16:07:40,2022-06-01 20:19:37,6,402,163,,inactive,1,2,,,,,,
+354,688,210528004MYC-201115004MAB,4,12,50,2,4,GBP,"Product description: Baby vest
+Ages: 
+nb
+up to 1month
+0 - 3
+3 - 6
+6 - 9
+9 - 12
+12 - 18
+18-24
+
+
+Pantones
+
+Bright white: 11-0601 TPX
+
+Nimbus Cloud: 13-4108 TCX
+
+Navy Peony: 19-4029
+
+Baby PINK: 70C
+
+Aqua Glass: 12-5407 TCX
+
+Mustard: 124 XGC ",,2020-11-22 16:11:44,2022-06-01 19:58:55,6,402,163,,inactive,1,2,,,,,,
+357,705,210528001WIB,1,1,300,3,1,GBP,We are starting a Sports Brand with sustainability at core. We want our products to be made from sustainable fabrics and we are looking for a manufacturer to supply us with sustainable fabric like Tencel and Organic Cotton. The manufacturer has to have the proper certificates like GOTS,,2020-12-01 21:50:12,2022-06-01 19:57:57,6,402,171,,inactive,1,2,,,,,,
+358,706,210528001EMA,1,1,200,3,4,Any,Additional Womens Scrub top tech pack (unable to attach),,2020-12-03 00:15:05,2022-06-01 19:56:17,6,402,172,,inactive,1,2,,,,,,
+359,397,210528004CHA,4,1,80,4,4,GBP,Leggings to be tight but thick material. Want it to be absorbent and breathable and ribbed for both items.,,2020-12-09 21:35:36,2022-06-01 19:55:16,6,402,117,,inactive,1,2,,,,,,
+361,397,210528005CHA,5,25,40,2,4,GBP,,,2020-12-09 21:45:18,2022-06-01 19:54:24,6,402,117,,inactive,1,2,,,,,,
+362,782,210528001DOA,1,12,800,6,4,Any,"Range Plan is attached. 8 X Tech Packs available upon request to hello@dottiandcub.com. 
+
+50pcs per style per colour.
+
+Looking to commence sampling/manufacture asap",,2020-12-15 04:31:31,2022-06-01 19:53:38,6,402,175,,inactive,1,2,,,,,,
+371,384,210528002KEB,2,5,100,1,4,GBP,letter “K” on strap is a gold hook and eye feature,,2020-12-29 19:12:56,2022-05-27 15:45:29,6,402,111,,inactive,1,2,,,,,,
+372,384,210528003KEB,3,24,100,2,4,GBP,,,2020-12-29 19:16:04,2022-05-27 15:45:07,6,402,111,,inactive,1,2,,,,,,
+376,384,210528004KEB,4,5,100,1,4,GBP,letter “K” on strap is a gold hook and eye feature,,2020-12-29 19:23:14,2022-05-27 15:44:46,6,402,111,,inactive,1,2,,,,,,
+379,1025,210528001GRA,1,1,45,3,1,GBP,,,2021-01-05 20:58:46,2022-06-01 19:52:57,6,402,177,,inactive,1,2,,,,,,
+380,1025,210528002GRA,2,1,45,3,1,GBP,,,2021-01-05 21:05:30,2022-06-01 19:52:13,6,402,177,,inactive,1,2,,,,,,
+381,1025,210528003GRA,3,1,45,3,1,GBP,,,2021-01-05 21:08:20,2022-06-01 19:51:31,6,402,177,,inactive,1,2,,,,,,
+382,1025,210528004GRA,4,1,45,3,1,GBP,,,2021-01-05 21:10:46,2022-06-01 19:50:48,6,402,177,,inactive,1,2,,,,,,
+387,1289,210528001ATB-210107001ANB,1,1,150,3,4,GBP,"We are looking to make a linen/linen type jumpsuit for both yoga as well as something you could wear out and dress up. I have put 2 tech-packs under 210107001ANB as we only want to use 1 design depending on what works best. Ideally if the halter neck works then we will go with that but we would one a sample made of each to check.
+
+The dates I have put down are guidelines but we want to launch by end of March and have all the products. 
+
+We currently have no care label but we would like a simple label with all UK requirements, stating it is made in Sri Lanka and  any washing care signs. Ideally we would like this simple and in line with our brand.
+
+We would also like a swing tag with string to go around one of the bamboo rings with our logo and some print on the reverse side of the label (we are coming up with this at the moment so TBC).
+
+The fabric I have put down as apparel fabric as it&#039;s clothing but we are looking for linen or linen like, which isn&#039;t see-through, is wickable/breathable and very soft and sustainable.
+
+I have also put 150 pieces with 3 colours but depending on total price per product we may do 2 colours and total of 100 pieces. 
+
+We will have all our products packed in a recycled sari bag (or Sri Lankan equivalent) and swing tagged. Our target price is £15-20 per garment depending on quality of fabric.
+
+I have other logo files etc and our instagram is https://www.instagram.com/atlas.and.bear/ where will hope to promote you and the work you have done as well as giving you an idea of our branding.
+
+Colours are TBC but I think we will have at least one black and one blue (navy-ish blue).
+
+Any questions please let me know :)",,2021-01-12 17:01:27,2022-06-01 19:50:08,6,402,182,,inactive,1,2,,,,,,
+388,384,210528005KEB,5,5,100,1,4,GBP,"1.SAME BROWN RIB FABRIC TO BE USED AS THE DRESSES,INSTEAD OF THE FABRIC IN THIS TECH PACK.
+2. RINGS ON THE TOP ONLY,NOT THE SHORTS.",,2021-01-13 06:13:52,2022-05-27 15:43:17,6,402,111,,inactive,1,2,,,,,,
+389,1555,210528001MIB-210124001MIL,1,12,250,5,1,GBP,,,2021-01-25 13:47:34,2022-06-01 19:49:31,6,402,184,,inactive,1,2,,,,,,
+390,1025,210528005GRA,5,1,40,3,1,GBP,Tech packs to be made by chaodil designs - already paid for ,,2021-01-30 11:04:41,2022-06-01 19:48:48,6,402,177,,inactive,1,2,,,,,,
+391,1562,210528001REB,1,24,500,7,4,GBP,"At first, we just need a tech pack to conduct some more market research with our designs, if it works out and we see that demand is there, we will move on to sample making and mass production, and we would be happy to also have you take of that, but we cannot yet commit to it",,2021-02-08 18:24:37,2022-06-01 19:48:12,6,402,185,,inactive,1,2,,,,,,
+392,1563,210528001TWA,1,23,50,1,2,USD,,,2021-02-08 18:47:30,2022-06-01 19:47:38,6,402,186,,inactive,1,2,,,,,,
+395,250,210528007MAB-20200415001MB-Latest-adjustments-legging,7,1,200,2,4,GBP,"Please find attached the latest update after our conversation. I added the feedback from the models, 26w and 22w pregnant. They found really comfortable the legging except for the waistband. When doing yoga, the band was falling. It felt pressure instead of support.
+I attached the pantone colours preference (pms 3035 y PMS 220 are the first preference)
+Thank you",,2021-02-11 10:17:08,2022-06-01 19:46:33,6,402,31,,inactive,1,2,,,,,,
+396,250,210528008MAB-20200415003MB-Latest-adjustments-top,8,1,100,2,1,GBP,China sample was properly done - I took both samples to give you an idea of the adjustments needed. ,,2021-02-11 10:20:00,2022-06-01 19:45:55,6,402,31,,inactive,1,2,,,,,,
+397,250,210528009MAB-20200415002AMB-Latest-adjustments-top,9,1,100,2,1,GBP,China sample was properly done - I took both samples to give you an idea of the adjustments needed. ,,2021-02-11 10:20:04,2022-06-01 19:45:18,6,402,31,,inactive,1,2,,,,,,
+398,250,210528010MAB-20200415002MB-Latest-t-shirt-adjustments,10,1,100,2,1,GBP,China T-shirt measurements are good. I took the inner front measures as guide. ,,2021-02-11 10:22:44,2022-05-24 06:02:25,6,402,31,,completed,1,2,,,,,,
+399,1571,210528001WEA,1,1,100,3,4,USD,,,2021-02-15 16:45:14,2022-06-01 19:44:41,6,402,188,,inactive,1,2,,,,,,
+400,325,210528002MAE-210201003HL,2,10,50,2,4,GBP,,,2021-02-19 07:03:19,2022-05-27 15:16:53,6,402,84,,completed,1,2,,,,,,
+401,325,210528003MAE-210201004HL,3,10,50,2,4,GBP,,,2021-02-19 07:04:30,2022-05-27 15:16:16,6,402,84,,completed,1,2,,,,,,
+402,250,210528011MAB,11,1,200,1,4,GBP,"Hi,
+As discussed, please provide more information about the trim/badge for the leggings. The idea is to stamp the company flower on the pocket. See flowers option. Thanks",2022-05-11 13:36:23,2021-02-21 01:07:48,2022-05-11 13:36:23,6,,31,,active,1,0,,,,,,
+403,1579,210528001EAC,1,3,1451234,3,4,GBP,"I want the basic package to minimize cost
+Can you make techpacks for all these designs for me
+I need, 5 filler tshirts 2 filler bottoms 2 filler hoodies
+
+
+
+I need help designing my tshirt designs. These are filler items for my clothing brands for now. I would like the arabic print
+( &quot; عنكبوتي &quot; ) to be on the sleeve area or chest center chest. And then the company name ( Eankabuti ) to be on the centre chest. I have made a few designs underneath. Please can you make some more.
+
+These are premium tshirts for a premium audience. Best quality
+
+I need premium tags and labels on the tshirts.
+
+100% cotton or better materials. Just the very best.
+solid colour
+round collar
+
+can i have different colour examples too
+
+also i would like to look into emboridry. Could i have some spider designs for the emboidry
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I need a white and black tshirt medium
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I need help designing my tshirt designs. These are filler items for my clothing brands for now. I would like the arabic print ( &quot; عنكبوتي &quot; ) to be on the sleeve area or chest center chest. And then the company name ( Eankabuti ) to be on the centre chest. I have made a few designs underneath. Please can you make some more. I would like the logo and writing to be in relective materials.
+
+since Eankabuti means &quot;my spider&quot; I would like a spider design / equivalent of the Kenzo tiger . As the flagship tshirt. ( i&#039;ve attached a man wearing a kenzo tshirt. I want something like that but a spider.)
+
+
+--------------------------------------------------------------------------------------------------------------------------
+I would like my logo &quot;Eankabuti&quot; center chest to be made from a reflective material. And on the left sleeve to have the arabic print ( &quot; عنكبوتي &quot; ) .
+
+
+Some of the pictures are not my clothing desings but i want something similar for my brand
+
+can you do this. how much are we looking at?
+",,2021-02-22 10:52:31,2022-06-01 19:43:40,6,402,189,,inactive,1,2,,,,,,
+404,1579,210528002EAC,2,3,1451234,3,4,GBP,"I want the basic package to minimize cost
+Can you make techpacks for all these designs for me
+I need, 5 filler tshirts 2 filler bottoms 2 filler hoodies
+
+
+
+I need help designing my tshirt designs. These are filler items for my clothing brands for now. I would like the arabic print
+( &quot; عنكبوتي &quot; ) to be on the sleeve area or chest center chest. And then the company name ( Eankabuti ) to be on the centre chest. I have made a few designs underneath. Please can you make some more.
+
+These are premium tshirts for a premium audience. Best quality
+
+I need premium tags and labels on the tshirts.
+
+100% cotton or better materials. Just the very best.
+solid colour
+round collar
+
+can i have different colour examples too
+
+also i would like to look into emboridry. Could i have some spider designs for the emboidry
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I need a white and black tshirt medium
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I need help designing my tshirt designs. These are filler items for my clothing brands for now. I would like the arabic print ( &quot; عنكبوتي &quot; ) to be on the sleeve area or chest center chest. And then the company name ( Eankabuti ) to be on the centre chest. I have made a few designs underneath. Please can you make some more. I would like the logo and writing to be in relective materials.
+
+since Eankabuti means &quot;my spider&quot; I would like a spider design / equivalent of the Kenzo tiger . As the flagship tshirt. ( i&#039;ve attached a man wearing a kenzo tshirt. I want something like that but a spider.)
+
+
+--------------------------------------------------------------------------------------------------------------------------
+I would like my logo &quot;Eankabuti&quot; center chest to be made from a reflective material. And on the left sleeve to have the arabic print ( &quot; عنكبوتي &quot; ) .
+
+
+Some of the pictures are not my clothing desings but i want something similar for my brand
+
+can you do this. how much are we looking at?
+",,2021-02-22 10:52:32,2022-06-01 19:43:06,6,402,189,,inactive,1,2,,,,,,
+405,1610,210528001DAB-210301001DAS-DASARPS-BRAND,1,1,200,5,1,USD,"200 is  a Bulk QTY. 
+Sample each color one.
+
+Let me know the Development process total cost and Bulk process total cost.",,2021-02-28 18:56:00,2022-05-23 14:13:42,6,402,190,,inactive,1,2,,,,,,
+406,1639,210528001MAH,1,3,50,1,4,Any,"Thank you for reviewing my designs. I require fabric to be digitally printed with my designs, would you please include this in the sourcing of fabric?
+
+Please let me know if you require further information for quoting.
+
+Many thanks,
+Lou",,2021-03-02 06:04:29,2022-06-01 19:42:31,6,402,191,,inactive,1,2,,,,,,
+407,783,210528001CPA,1,1,400,4,1,Any,"SWEATSHIRT : 100% organic cotton 450 gsm fleece back with embroidery Logo on centre front 4.5 x 4.5cm
+t-shirt :100% organic cotton 180 gsm interlock jersey with print logo on centre front 4.5 x 4.5 cm ",,2021-03-02 14:44:32,2022-05-27 15:51:03,6,402,176,,inactive,1,2,,,,,,
+408,783,210528002CPA,2,1,400,4,1,Any,"SWEATSHIRT : 100% organic cotton 450 gsm fleece back with embroidery Logo on centre front 4.5 x 4.5cm
+t-shirt :100% organic cotton 180 gsm interlock jersey with print logo on centre front 4.5 x 4.5 cm ",,2021-03-02 14:44:50,2022-05-27 15:50:41,6,402,176,,inactive,1,2,,,,,,
+414,1642,210528001COH-210311001COT-Loungey-Loungewear,1,3,100,3,1,GBP,The garment workers who make the fabric and garments are at the heart of my company and I would like the products produced as ethically as possible. ,,2021-03-08 17:55:24,2022-05-27 15:17:33,6,402,194,,inactive,1,2,,,,,,
+417,1643,210528001GAC,1,3,80,2,2,Any,"Hi, 
+I am trying to upload a file TP,  but the button is not working? I was hoping to get a costing on standard fabrics before an outlay for fabric sourcing. Could you advise best email to send TP too?  Thank you.",,2021-03-12 10:33:01,2022-05-27 15:49:23,6,402,195,,inactive,1,2,,,,,,
+418,1645,210528001SHC,1,1,50,1,1,EUR,,,2021-03-15 19:49:55,2022-05-27 15:48:33,6,402,196,,inactive,1,2,,,,,,
+419,1646,210528001TBA,1,3,150,3,1,GBP,We are looking to use organic and or sustainable fabrics only,,2021-03-17 16:13:47,2022-05-27 15:47:41,6,402,197,,inactive,1,2,,,,,,
+420,1646,210528002TBA,2,3,150,3,1,GBP,,,2021-03-17 16:21:47,2022-05-27 15:46:52,6,402,197,,inactive,1,2,,,,,,
+421,1639,210528002MAH-210315001MAZ-Jasper-Dress,2,3,50,2,4,USD,Target received date 31/08/2021,,2021-03-19 07:12:56,2022-06-01 19:41:43,6,402,191,,inactive,1,2,,,,,,
+422,1652,210528001-CA,1,1,50,1,1,USD,,,2021-03-22 07:47:12,2022-06-01 19:40:35,6,402,200,,inactive,1,2,,,,,,
+423,1640,210528001IAA-210312001IAT-IATIA-DAWN-T--SHIRT,1,3,100,2,1,GBP,,,2021-04-12 12:42:59,2022-05-27 15:38:50,6,402,192,,inactive,1,2,,,,,,
+424,1640,210528002IAA-210312001RPG-REP-LIFESTYLE-T-SHIRTS,2,1,100,2,1,GBP,,,2021-04-12 12:43:18,2022-05-27 15:39:16,6,402,192,,inactive,1,2,,,,,,
+425,1640,210528003IAA-210312002IAT-IATIA-HOODIES,3,3,100,2,1,GBP,,,2021-04-12 12:45:59,2022-05-27 15:37:54,6,402,192,610ce22929b621718.pdf,inactive,1,2,,,,,,
+426,1640,210528004IAA-210312002RPG-REP-LIFESTYLE-HOODIE,4,1,100,2,1,GBP,,,2021-04-12 12:47:48,2022-05-27 15:37:23,6,402,192,,inactive,1,2,,,,,,
+427,1640,210528005IAA-210312003IAT-ON-THE-GO-RAGLAIN-HOODIE,5,1,100,2,1,GBP,,,2021-04-12 12:52:01,2022-05-27 15:37:02,6,402,192,,inactive,1,2,,,,,,
+428,1640,210528006IAA-210312003RPG-REP-RENDITION-T-SHIRT,6,1,100,2,1,USD,,,2021-04-12 12:53:14,2022-05-27 15:36:41,6,402,192,,inactive,1,2,,,,,,
+429,1667,210528001EVB,1,3,1,1,1,GBP,Looking for hemp tshirt supplier,,2021-04-15 10:36:54,2022-06-01 19:40:00,6,402,206,,inactive,1,2,,,,,,
+433,1668,210528001DOB-210419001DOW-Eco-Frinedly-Insulated-hiking-jacket,1,1,300,2,4,Any,"Must be made to a high quality, using recycled synthetic fabrics and filled with a natural fibre (which I can source on your behalf). All fabrics must be free from animal products (including dyes), and ethically sourced. Production should meet certain ethical/fairtrade standards, and workers preferably paid a living wage. ",,2021-04-15 19:01:34,2022-12-22 07:01:12,6,402,207,,inactive,1,2,,,,,,
+434,1669,210528001KNA-210503001KNI-Absorbant-Active-Undies,1,10,500,1,4,Any,Protective absorbent underwear for children to adult,,2021-04-16 00:31:25,2022-09-28 12:21:14,6,1693,208,,inactive,1,2,,,,,,
+435,1640,210528007IAA-210312004RPG-REP-SHORTS-TBC,7,1,2,1,1,USD,,,2021-04-21 07:39:50,2022-05-27 15:35:15,6,402,192,,inactive,1,2,,,,,,
+436,1640,210528008IAA-210312005RPG-REP-ON-THE-GO-TRACK-PANTS,8,1,100,1,4,USD,,,2021-04-30 13:38:45,2022-05-27 15:34:54,6,402,192,,inactive,1,2,,,,,,
+437,1671,210528001HUA,1,3,500,2,4,USD,,,2021-05-01 16:16:09,2022-05-27 15:21:48,6,402,209,,inactive,1,2,,,,,,
+438,1671,210528002HUA,2,3,500,2,4,USD,,,2021-05-01 16:19:41,2022-05-27 15:21:33,6,402,209,,inactive,1,2,,,,,,
+439,1679,210528001SOA,1,1,300,3,1,USD,,,2021-05-05 08:20:22,2022-06-01 19:39:27,6,402,210,,inactive,1,2,,,,,,
+440,1680,210528001NOA-210507001BAR-Notch-Top,1,10,300,3,1,USD,I am firstly looking to get my initial design idea into a professional tech pack.,,2021-05-06 10:54:16,2022-06-01 18:58:23,6,402,211,,inactive,1,2,,,,,,
+441,1681,210528001NEB,1,1,25,2,4,GBP,,,2021-05-07 18:21:08,2022-06-01 17:03:15,6,402,212,,inactive,1,2,,,,,,
+442,1684,210528001UVA,1,23,25,1,1,EUR,,,2021-05-12 12:21:45,2022-06-01 17:02:40,6,402,213,,inactive,1,2,,,,,,
+443,1684,210528002UVA-210524001UVN-50-T-shirts,2,3,50,2,1,EUR,,,2021-05-12 12:37:16,2022-05-25 09:00:39,6,402,213,,inactive,1,2,,,,,,
+451,1689,210528001UDA-210525001UDO-Udo-toddler-bedding,1,12,1,1,1,GBP,"Great to speak to Chathura and Mohammed today, looking forward to the next steps.",,2021-05-21 13:59:21,2022-05-23 16:01:44,6,402,215,,inactive,1,2,,,,,,
+452,1690,210528001AUB,1,22,24,4,1,GBP,"Hi Chathura
+Thank you for sending all the information.
+
+Could you please confirm prices for below?
+
+1) Prices for style development  and  mass production x 4 socks design in total. x2 plain  and  x2 patterned. 
+
+2) Prices for style developement  and  mass production x2 stocking / tights designs, both patterened.
+
+Both items must be in sustainable quality.
+
+Kind Regards
+Indrani",,2021-05-25 11:50:58,2022-05-23 16:01:01,6,402,216,,inactive,1,2,,,,,,
+453,1692,210531001RMA,1,3,100,2,2,USD,,,2021-05-31 10:37:55,2022-05-23 16:09:03,1,402,,,inactive,1,2,,,,,,
+454,1692,210531002RMA,2,3,100,2,1,USD,,,2021-05-31 10:40:33,2022-05-25 08:59:16,2,402,,,inactive,1,2,,,,,,
+457,1694,210604001SAE,1,1,50,1,3,USD,,,2021-06-04 08:32:24,2022-05-23 15:57:35,1,402,,,inactive,1,2,,,,,,
+458,1697,210606001TEC,1,5,66,2,3,USD,This is a test inquiry. Please ignore.,2022-09-15 09:31:52,2021-06-06 17:40:27,2022-09-15 09:31:52,2,1693,,60ef9b1b7a7dc1697.jpg,active,1,2,test,test,0,,,
+459,1699,210609001NOB,1,10,400,2,1,USD,"We are an Australian start up looking to create an innovative and quality line of women's intimates which is made from sustainable materials and produced by a manufacturer employing ethical standards. We are particularly looking to incorporate/use a specific material, which is SeaCell if possible, otherwise will use an alternative sustainable material.",,2021-06-09 02:39:24,2022-05-25 09:01:03,1,402,,,inactive,1,2,,,,,,
+460,1700,210608001NAA,1,23,6,3,4,USD,"Looking to create the above designs in Grey, Black and White. Need sampling to be done. Both designs must be embroidered.",,2021-06-01 12:17:22,2022-06-01 19:41:05,6,402,224,,inactive,1,2,,,,,,
+461,1702,210608001THA,1,3,100,2,1,GBP,,,2021-06-03 19:04:55,2022-06-01 18:59:16,6,402,226,,inactive,1,2,,,,,,
+462,1703,210610001LAC,1,12,100,5,1,USD,,,2021-06-10 04:16:45,2022-05-27 15:19:08,3,402,,,inactive,1,2,,,,,,
+463,1707,210610001DAC,1,10,50,1,2,USD,,2021-12-03 08:00:56,2021-06-10 20:50:25,2021-12-03 08:00:56,1,,,,active,1,0,,,,,,
+464,1707,210610002DAC,2,10,50,1,2,USD,,2021-12-03 08:01:08,2021-06-10 20:52:01,2021-12-03 08:01:08,1,1718,,,active,1,0,,,,,,
+465,1704,210611001TED,1,1,123,12,1,USD,Test,,2021-06-11 13:54:45,2022-05-23 13:52:52,1,402,,610bae7262edc1704.jpg,inactive,1,2,,,,,,
+466,1698,210621001BLA,1,3,100,25,2,USD,Wasn't sure on fabric so just selected any :),,2021-06-21 01:14:40,2022-05-23 14:05:59,1,402,,,inactive,1,2,,,,,,
+467,1719,210624001REC,1,1,300,6,2,EUR,,2021-10-13 09:26:57,2021-06-24 20:04:10,2021-10-13 09:26:57,4,1718,,,active,1,0,,,,,,
+468,226,210627009KAA,9,23,50,1,3,USD,,,2021-06-27 20:24:52,2022-05-23 03:54:55,2,402,,,inactive,1,2,,,,,,
+469,226,210628010KAA,10,23,50,1,3,USD,This is a duplicate of 210627009KAA,,2021-06-28 10:44:45,2022-05-23 03:54:26,2,402,,,inactive,1,2,,,,,,
+470,366,210628002JBA,2,3,500,2,4,USD,This is a duplicate of 210528001JBA,2021-06-28 11:06:06,2021-06-28 11:05:40,2021-06-28 11:06:06,6,1691,100,,active,1,0,,,,,,
+471,1696,210629001SUC,1,1,100,1,1,GBP,,,2021-06-29 02:16:56,2022-05-23 15:59:31,4,402,,,inactive,1,2,,,,,,
+472,226,210629011KAA,11,23,50,1,3,USD,This is a duplicate of 210628010KAA,,2021-06-29 05:38:14,2022-05-23 03:54:03,2,402,,,inactive,1,2,,,,,,
+473,366,210629003JBA,3,3,500,2,4,USD,,2021-06-29 17:27:16,2021-06-29 17:14:27,2021-06-29 17:27:16,6,1691,100,,active,1,0,,,,,,
+474,366,210629004JBA,4,3,2000,2,4,USD,This is a duplicate of 210629003JBA,2021-06-29 17:27:10,2021-06-29 17:19:53,2021-06-29 17:27:10,6,1691,100,,active,1,0,,,,,,
+475,1721,210630001NOC,1,1,600,2,1,GBP,,,2021-06-30 01:52:40,2022-05-23 14:08:11,1,402,,610a238d1c5311718.pdf,inactive,1,2,,,,,,
+476,226,210630012KAA,12,23,50,1,3,USD,This is a duplicate of 210629011KAA,,2021-06-30 11:57:03,2022-05-23 03:53:36,2,402,,,inactive,1,2,,,,,,
+477,1709,210630001CHD,1,24,300,2,1,GBP,,2021-06-30 14:06:27,2021-06-30 12:49:18,2021-06-30 14:06:27,2,1691,,,active,1,0,,,,,,
+478,226,210630013KAA,13,23,50,1,3,USD,This is a duplicate of 210630012KAA,,2021-06-30 13:54:12,2022-05-23 03:59:57,2,402,,,inactive,1,2,,,,,,
+479,226,210630014KAA,14,23,50,1,3,USD,This is a duplicate of 210630013KAA,,2021-06-30 13:55:15,2022-05-23 04:00:26,2,402,,,inactive,1,2,,,,,,
+480,226,210630015KAA,15,23,50,1,3,USD,This is a duplicate of 210630014KAA,,2021-06-30 13:55:51,2022-05-23 03:53:02,2,402,,,inactive,1,2,,,,,,
+481,226,210630016KAA,16,23,50,1,3,USD,This is a duplicate of 210630015KAA,,2021-06-30 13:56:27,2022-05-23 04:00:51,2,402,,,inactive,1,2,,,,,,
+482,226,210630017KAA,17,23,50,1,3,USD,This is a duplicate of 210630016KAA,,2021-06-30 13:57:02,2022-05-23 03:52:42,2,402,,,inactive,1,2,,,,,,
+483,1709,210630002CHD,2,3,300,2,1,GBP,,2021-07-03 14:17:27,2021-06-30 14:06:49,2021-07-03 14:17:27,2,1693,,,active,1,0,,,,,,
+484,226,210630018KAA,18,23,50,1,3,USD,This is a duplicate of 210630016KAA,,2021-06-30 14:08:08,2022-05-23 04:01:10,2,402,,,inactive,1,2,,,,,,
+485,226,210630019KAA,19,23,50,1,3,USD,This is a duplicate of 210630018KAA,,2021-06-30 14:09:42,2022-05-23 03:51:37,2,402,,,inactive,1,2,,,,,,
+486,1717,210630001HOA,1,10,50,1,1,GBP,"We would love to have one quantity of the design sampled for us - We have placed 50 in the bulk order quantity however, we would love to sample just one quantity. We believe the Sell price for the product will be around £25. For the size we would appreciate if we could use a size 10 from 'Madam Apparel' as we have not fitted on models just yet. 
+Please do get in touch with buyers@humanitarianoperations.org if any further assistance is required. Many thanks.",,2021-06-30 17:21:21,2022-05-23 15:56:58,4,402,,,inactive,1,2,,,,,,
+487,1717,210630002HOA,2,10,50,1,1,GBP,"We would love to have one quantity of the design sampled for us - We have placed 50 in the bulk order quantity however, we would love to sample just one quantity. We believe the Sell price for the product will be around £30. For the size we would appreciate if we could use a size 10 from 'Madam Apparel' as we have not fitted on models just yet. Please do get in touch with buyers@humanitarianoperations.org if any further assistance is required. Many thanks.",,2021-06-30 17:22:01,2022-05-23 15:56:19,4,402,,,inactive,1,2,,,,,,
+488,1724,210701001JUA,1,3,1100,7,2,GBP,"Just Tall is not another Big and Tall store. Just Tall is run by a tall, lean guy, for tall, lean guys. We are an exclusive but simple men's clothing brand targeting tall, lean to athletic men of all age groups between 6'2 and 7'2. Our clothing embodies two basic characteristics: longer, not wider - the simple formula to providing a reliable fit for the vertically gifted, not the horizontally gifted. We aim to launch with casual wear (crew neck t-shirts, polo t-shirts, and jeans) and active wear (t-shirts and gym pants) Our differentiators include a premium range for more up-market clientele, and a sizing plugin built into the product page to enhance the customer experience and reduce returns. If we were to describe our brand with one word, it would be simple: Simple in the product selection, simple design styles, simple ordering and shipping processes, simple product pages, simple social media communications and visual aesthetic, and a simple conversational style with customers without being too funny or too serious.",,2021-07-01 11:14:52,2022-05-23 14:10:31,2,402,,,inactive,1,2,,,,,,
+489,1721,210701002NOC,2,1,600,2,1,GBP,This is a duplicate of 210630001NOC,,2021-07-01 13:31:00,2022-05-23 14:07:50,1,402,,,inactive,1,2,,,,,,
+490,1721,210701003NOC,3,1,600,2,1,GBP,This is a duplicate of 210701002NOC,,2021-07-01 13:31:48,2022-05-23 14:07:28,1,402,,,inactive,1,2,,,,,,
+491,1721,210701004NOC,4,1,600,2,1,GBP,This is a duplicate of 210701003NOC,,2021-07-01 13:32:32,2022-05-23 14:06:54,1,402,,610a207be08711718.pdf,inactive,1,2,,,,,,
+492,366,210704005JBA,5,1,100,2,1,USD,,2021-07-04 13:13:29,2021-07-04 13:13:04,2021-07-04 13:13:29,1,,,,active,1,0,,,,,,
+493,366,210704006JBA,6,1,100,5,1,USD,,2021-07-04 13:21:22,2021-07-04 13:21:07,2021-07-04 13:21:22,1,,,,active,1,0,,,,,,
+494,1698,210705002BLA,2,3,130,25,2,USD,This is a duplicate of 210621001BLA,,2021-07-05 15:50:18,2022-05-23 14:05:34,1,402,,,inactive,1,2,,,,,,
+495,1698,210705003BLA,3,3,130,25,2,USD,This is a duplicate of 210705002BLA,,2021-07-05 15:50:56,2022-05-23 14:05:14,1,402,,,inactive,1,2,,,,,,
+496,1698,210705004BLA,4,3,100,25,2,USD,This is a duplicate of 210705003BLA,,2021-07-05 15:51:51,2022-05-23 14:04:57,1,402,,6102b6ed9da221718.pdf,inactive,1,2,,,,,,
+497,1698,210705005BLA,5,3,130,25,2,USD,This is a duplicate of 210705004BLA,,2021-07-05 15:52:02,2022-05-23 14:04:41,1,402,,,inactive,1,2,,,,,,
+498,1698,210705006BLA,6,3,130,25,2,USD,This is a duplicate of 210705005BLA,,2021-07-05 15:52:19,2022-05-23 14:04:23,1,402,,,inactive,1,2,,,,,,
+499,1698,210705007BLA,7,3,130,25,2,USD,This is a duplicate of 210705006BLA,,2021-07-05 15:52:31,2022-05-23 14:04:06,1,402,,,inactive,1,2,,,,,,
+500,1698,210705008BLA,8,3,130,25,2,USD,This is a duplicate of 210705007BLA,,2021-07-05 15:52:45,2022-05-23 14:03:43,1,402,,,inactive,1,2,,,,,,
+501,1698,210705009BLA,9,3,130,25,2,USD,This is a duplicate of 210705008BLA,,2021-07-05 15:52:55,2022-05-23 14:03:26,1,402,,,inactive,1,2,,,,,,
+502,1698,210705010BLA,10,3,100,25,2,USD,This is a duplicate of 210705009BLA,,2021-07-05 15:53:05,2022-05-23 14:03:10,1,402,,,inactive,1,2,,,,,,
+503,1698,210705011BLA,11,3,100,25,2,USD,This is a duplicate of 210705010BLA,,2021-07-05 15:53:17,2022-05-23 14:02:51,1,402,,,inactive,1,2,,,,,,
+504,1698,210705012BLA,12,3,100,25,2,USD,This is a duplicate of 210705012BLA,,2021-07-05 15:53:30,2022-05-23 13:38:52,1,402,,6108065d056ce1718.pdf,inactive,1,2,,,,,,
+505,1653,210706001YBA,1,10,3065,1,3,GBP,,,2021-07-06 14:34:11,2022-09-20 11:29:58,2,402,,63298e8865a9f1919.jpg,active,1,2,,,,,,
+506,1728,210708001SIB,1,3,100,6,1,USD,"I'm interested in creating eco-friendly scarves and modest women's clothing. My brand centers around sustainability and I value this throughout my brand from start to finish, including labels, packaging, etc. The styles I'm interested in creating are:
+- Hijab (women's scarf)
+- Athletic Wrap (women's scarf that is pre-sewn & easy to wear for sport activities)
+- Hijab Cap (a small band worn under the regular hijab)
+- Tunic
+---------------------------------------------------------------------------------------------------------------------------
+-Artistic Hijab (a hijab made with my mother's art imprinted on it)
+-Artistic Maxi Skirt (a maxi skirt made with my mother's art imprinted on it)
+
+*Keeping in mind all fabrics for each style are made with sustainable and eco-friendly fabrics",,2021-07-08 03:44:31,2022-05-23 13:33:23,1,402,,,inactive,1,2,,,,,,
+507,1698,210712013BLA,13,3,130,25,2,USD,This is a duplicate of 210705012BLA,2021-08-02 15:46:45,2021-07-12 13:24:20,2021-08-02 15:46:45,1,1718,,,active,1,0,,,,,,
+508,1734,210715001SPB,1,25,500,3,2,GBP,"Our school trousers are made for children with sensory issues around clothing. Fabric is 64 Polyester/34/Viscose/2%Lycra  390GLM. We mainly do Black and Charcoal Grey but would like small order of navy as well.  The trousers have all seams sewn flat on inside, the label is in pocket and fully elasticated up to age 17/18. The outer packaging needs to have size on it as label not seen. On label size, washing instructions make up and Spectra Logo and name. For black trousers we need , 30 x 9/10, 100 x 11/12,  50 x 13/14, 50 x 15/16 50 x 17/18. Charcoal grey trousers 50 x 11/12, 60 x 13/14,. Dark Navy 10 x 4/5, 10x 7/8, 10/9/10.",,2021-07-15 14:14:42,2022-11-17 11:00:38,3,402,,60f0551324ba91691.jpeg,completed,1,2,,,,,,
+509,1734,210715002SPB,2,25,500,3,2,GBP,"Our shirts are made from a soft cotton fabric, GSM 121. They have all the seams on inside sewn down (flat), the collar is soft with no stiffness, again the label is in the pocket, has short sleeves and only top three buttons are genuine. We need 30 x 7/8, 30 x 9/10, 100 x 11/12, 100 x 13/14, 100 x 15/16 50 x 17/18. Light Grey 5 in each size Light Blue 10 x 4/5, 10 x 7/8 and 10 x 9/10",,2021-07-15 16:21:08,2022-11-17 11:00:20,3,402,,60f052bf3211c1691.jpeg,completed,1,2,,,,,,
+510,1737,210716001SAF,1,1,50,6,2,GBP,,,2021-07-16 09:30:05,2022-05-23 13:41:00,2,402,,,inactive,1,2,,,,,,
+511,1692,210719003RMA,3,2,1003,1,2,GBP,additional info,2021-07-19 17:48:47,2021-07-19 17:17:44,2021-07-19 17:48:47,1,,,,active,1,0,,,,,,
+512,1742,210720001MUA,1,16,900,5,1,GBP,We need 2 maternity knickers styles creating - under and over the bump styles.,,2021-07-20 22:07:00,2022-05-23 13:31:46,1,402,,,inactive,1,2,,,,,,
+513,1610,210721002DAB,2,1,200,5,1,USD,This is a duplicate of 210528001DAB-210301001DAS-DASARPS-BRAND,,2021-07-21 10:54:22,2022-05-23 13:30:53,6,402,190,,inactive,1,2,,,,,,
+514,1727,210722001BYB,1,10,100,1,4,EUR,,,2021-07-22 04:07:54,2022-05-23 13:30:29,1,402,,,inactive,1,2,,,,,,
+515,1610,210722003DAB,3,1,200,5,1,USD,This is a duplicate of 210721002DAB,,2021-07-22 12:04:58,2022-05-23 13:30:05,6,402,190,,inactive,1,2,,,,,,
+516,1727,210726002BYB,2,10,100,1,4,USD,thong + suspenders only,,2021-07-26 09:06:55,2022-05-23 13:31:19,1,402,,,inactive,1,2,,,,,,
+517,1743,210728001KOA,1,16,3000,1,1,USD,,,2021-07-28 07:50:33,2022-12-22 07:02:09,5,402,,,inactive,1,2,,,,,,
+518,1610,210803004DAB,4,1,200,5,1,USD,This is a duplicate of 210722003DAB,,2021-08-03 06:39:25,2022-05-23 14:13:12,6,402,190,6108dc14e521c1718.pdf,inactive,1,2,,,,,,
+519,1610,210803005DAB,5,1,200,5,1,USD,This is a duplicate of 210803004DAB,,2021-08-03 06:53:54,2022-05-23 14:12:50,6,402,190,6108dcc0f2b101718.pdf,inactive,1,2,,,,,,
+520,1610,210803006DAB,6,1,200,5,1,USD,This is a duplicate of 210803005DAB,,2021-08-03 06:54:26,2022-05-23 14:12:34,6,402,190,6108dce1787ca1718.pdf,inactive,1,2,,,,,,
+521,1709,210803003CHD,3,2,50,50,4,USD,,2021-08-03 23:51:59,2021-08-03 23:05:10,2021-08-03 23:51:59,1,402,,,active,1,0,,,,,,
+522,1746,210803001DIB,1,3,200,4,4,USD,Logos must be embroidery PATCH and a thicker long staple cotton. Blank shirts are a thinner pima cotton.,,2021-08-03 23:50:22,2022-05-23 13:55:12,2,402,,,inactive,1,2,,,,,,
+523,1746,210803002DIB,2,3,50,1,3,USD,Knit Cotton/Linen blend,,2021-08-03 23:51:40,2022-05-23 13:54:51,2,402,,,inactive,1,2,,,,,,
+524,1746,210803003DIB,3,23,150,2,3,USD,"Merino wool is best for all three items. The ""Blacked Out Heart"" and ""You Need A Heart To Live"" sweaters can be substituted for a wool/cotton or other wool material possibly. I would like to sample ""You Need A Heart To Live"" before we commit to the project. The lettering on the side of the garment were inspired by another brand's lettering and I do not know the technique they used because the lettering is not printed on, it seems to either be dyed into the fabric or woven in. It does not peel and is not raised like stitching or screen printing would do.",,2021-08-03 23:57:24,2022-05-23 13:32:34,2,402,,,inactive,1,2,,,,,,
+525,1746,210803004DIB,4,7,200,4,2,USD,"Would like to sample one style, one color. The pants are made to have the look of a more formal trouser but the stretch similar to a jogger.",,2021-08-04 00:33:34,2022-05-23 13:54:30,2,402,,,inactive,1,2,,,,,,
+526,1746,210803005DIB,5,23,150,3,3,USD,"Merino wool is best for all three items. The ""Blacked Out Heart"" and ""You Need A Heart To Live"" sweaters can be substituted for a wool/cotton or other wool material possibly. I would like to sample ""You Need A Heart To Live"" before we commit to the project. The lettering on the side of the garment were inspired by another brand's lettering and I do not know the technique they used because the lettering is not printed on, it seems to either be dyed into the fabric or woven in. It does not peel and is not raised like stitching or screen printing would do.",,2021-08-04 00:37:06,2022-05-23 13:54:11,2,402,,,inactive,1,2,,,,,,
+527,1746,210804006DIB,6,3,50,1,3,USD,Embroidery PATCH.,,2021-08-04 01:04:51,2022-05-23 13:53:49,2,402,,,inactive,1,2,,,,,,
+528,1746,210804007DIB,7,3,50,1,2,USD,Sample,,2021-08-04 01:06:20,2022-05-23 13:53:25,2,402,,,inactive,1,2,,,,,,
+529,1748,210804001SOB,1,15,50,2,1,EUR,"Please note. The summers collection is now changed to ‘Athleisure’
+I will need a quote for these in S-L and kids 6months-8years",,2021-08-04 14:30:56,2022-05-23 13:55:47,6,402,,,inactive,1,2,,,,,,
+530,1704,210805002TED,2,1,123,12,1,USD,This is a duplicate of 210611001TED,2021-08-06 17:18:22,2021-08-05 10:25:18,2021-08-06 17:18:22,1,1691,,610d5cade45a11691.jpeg,active,1,0,,,,,,
+531,1704,210805003TED,3,1,123,12,1,EUR,TEST,,2021-08-05 10:58:51,2022-05-23 13:51:50,1,402,,,inactive,1,2,,,,,,
+532,1750,210805001P.A,1,24,1000,12,1,USD,,,2021-08-05 16:55:05,2022-05-23 13:48:13,6,402,,,inactive,1,2,,,,,,
+533,1704,210806004TED,4,1,123,12,1,USD,This is a duplicate of 210805002TED,2021-08-06 17:16:59,2021-08-06 17:15:20,2021-08-06 17:16:59,1,1691,,610d5cade45a11691.jpeg,active,1,0,,,,,,
+534,1727,210809003BYB,3,10,150,1,4,USD,,2021-08-27 01:16:11,2021-08-09 04:29:33,2021-08-27 01:16:11,1,402,,,active,1,0,,,,,,
+535,1751,210810001THB,1,3,200,1,3,USD,,,2021-08-10 11:37:47,2022-05-23 13:09:28,2,402,,,inactive,1,2,,,,,,
+536,1751,210810002THB,2,3,200,1,3,USD,This is a duplicate of 210810001THB,,2021-08-10 12:39:28,2022-05-23 13:46:10,2,402,,,inactive,1,2,,,,,,
+537,1751,210810003THB,3,3,200,1,3,USD,This is a duplicate of 210810002THB,,2021-08-10 12:47:47,2022-05-23 13:45:37,1,402,,616b95d14f8c61718.jpeg,inactive,1,2,,,,,,
+538,1751,210810004THB,4,3,200,1,3,USD,This is a duplicate of 210810003THB,,2021-08-10 12:49:28,2022-05-23 13:44:34,1,402,,,inactive,1,2,,,,,,
+539,1752,210811001AKA,1,3,500,5,1,GBP,"Enter excess information you'd like your account manager to see, this could be specifics you want them to notice or any other details",,2021-08-11 14:58:20,2022-05-23 13:09:06,2,402,,,inactive,1,2,,,,,,
+540,1754,210812001MOD,1,12,50,2,2,GBP,"Please find attached heat seal for collar of garment
+
+Regards,
+
+
+
+Carol",,2021-08-12 19:02:34,2022-05-23 13:43:13,3,402,,,inactive,1,2,,,,,,
+541,1754,210812002MOD,2,12,50,2,2,GBP,"Please find attached branding logo
+
+Kind regards,
+
+
+
+Carol",,2021-08-12 19:04:07,2022-05-20 03:07:04,3,402,,,active,1,2,,,,,,
+542,1754,210812003MOD,3,12,50,2,2,GBP,"Please find attached packaging label.
+
+Kind regards,
+
+
+Carol",,2021-08-12 19:05:21,2022-05-23 13:27:04,3,402,,,inactive,1,2,,,,,,
+543,1754,210812004MOD,4,12,50,2,2,GBP,"To confirm we would like a separate label for the washing instructions, fire safety instructions etc..
+
+Thank you
+
+
+Carol",,2021-08-12 19:07:23,2022-05-23 13:26:42,3,402,,,inactive,1,2,,,,,,
+544,1756,210815001LID,1,12,1000,5,1,USD,"Hello, I am looking for organic cotton, linen and merino wool MUST BE GOTS CERTIFIED to make a line of baby layette (onesies, rompers, pyjamas, beanies and blankets). I would like my company's logo embroidered on the garments and the GOTS tag on each garment is imperative. Thanks very much for your help",,2021-08-15 16:38:31,2022-05-23 13:03:39,3,402,,,inactive,1,2,,,,,,
+545,1742,210817002MUA,2,16,900,5,1,GBP,This is a duplicate of 210720001MUA,,2021-08-17 08:35:49,2022-05-23 13:03:17,1,402,,60f73afc683e01742.jpeg,inactive,1,2,,,,,,
+546,281,210817008ADA,8,12,1000,5,3,USD,,,2021-08-17 19:27:53,2022-09-22 11:20:42,3,1693,,6130ed3bcd9c1281.pdf,inactive,1,2,,,,,,
+547,1753,210818001TIA,1,3,500,5,1,GBP,"Enter excess information you'd like your account manager to see, this could be specifics you want them to notice or any other details.",2021-08-19 17:18:25,2021-08-18 09:27:31,2021-08-19 17:18:25,2,402,,,active,1,0,,,,,,
+548,1751,210819005THB,5,3,200,1,3,USD,This is a duplicate of 210810004THB,,2021-08-19 07:41:08,2022-05-23 13:05:39,3,402,,,inactive,1,2,,,,,,
+549,1751,210819006THB,6,3,200,1,3,USD,This is a duplicate of 210819005THB,2021-08-19 10:15:45,2021-08-19 07:42:18,2021-08-19 10:15:45,3,1718,,,active,1,0,,,,,,
+550,1754,210819005MOD,5,12,50,2,2,GBP,This is a duplicate of 210812002MOD,,2021-08-19 11:01:09,2022-05-23 13:25:35,3,402,,,inactive,1,2,,,,,,
+551,1759,210819001ALC,1,12,200,3,3,USD,,,2021-08-19 16:42:42,2022-05-23 13:06:21,3,402,,,inactive,1,2,,,,,,
+552,1759,210819002ALC,2,12,200,3,3,USD,,,2021-08-19 16:43:03,2022-05-23 13:06:52,3,402,,,inactive,1,2,,,,,,
+553,1759,210819003ALC,3,12,200,1,3,USD,,,2021-08-19 16:45:33,2022-05-23 13:07:24,3,402,,,inactive,1,2,,,,,,
+554,1761,210823001WYA,1,4,50,1,1,USD,contact me please,2021-08-31 11:03:51,2021-08-23 04:33:48,2021-08-31 11:03:51,1,,,,active,1,0,,,,,,
+555,1761,210823002WYA,2,1,100,2,2,USD,thanks,,2021-08-23 04:42:44,2022-05-23 13:08:01,1,402,,,inactive,1,2,,,,,,
+556,1763,210824001ANC,1,24,360,3,1,USD,"Need tech packs for 3 bikini styles top and bottom. 
+Fabric is Italian carvico vita (Econyl) 
+All hardware silver 
+All bikini top with removable cup 
+Sample size medium 
+3 colours 
+I have includes images of the 3 styles and 3 colours I need tech packs for all styles.",2021-09-02 02:05:21,2021-08-25 00:33:11,2021-09-02 02:05:21,1,402,,,active,1,0,,,,,,
+557,1764,210825001ZEA,1,24,500,20,4,USD,"Hey guys, Ive spoken to Ahmed earlier and he has suggested I should send the exact shorts that I'm trying to replicate (measurement & fabric). As well as this ill will upload my current tech pack file and the few designs I have already made up to get you familiar with what type of product im trying to make. 
+thank you.",,2021-08-25 14:10:55,2022-05-23 13:08:34,2,402,,61288ef667b6b1718.jpg,inactive,1,2,,,,,,
+558,1694,210826002SAE,2,1,50,1,2,USD,,,2021-08-26 16:08:18,2022-05-23 13:09:56,2,402,,,inactive,1,2,,,,,,
+559,1694,210826003SAE,3,1,50,1,3,USD,This is a duplicate of 210604001SAE,,2021-08-26 16:13:13,2022-05-23 13:24:31,1,402,,,inactive,1,2,,,,,,
+560,1761,210831003WYA,3,3,50,1,3,GBP,,2021-08-31 11:03:42,2021-08-31 11:01:17,2021-08-31 11:03:42,3,,,,active,1,0,,,,,,
+561,1761,210831004WYA,4,3,50,1,3,GBP,,2021-08-31 11:02:39,2021-08-31 11:02:12,2021-08-31 11:02:39,3,,,,active,1,0,,,,,,
+562,1768,210831001A.A,1,23,100,1,1,USD,"We're looking to make a distressed hoodie with frayed edges around the sleeve and the hood if possible, please see attached tech pack.",,2021-08-31 13:13:14,2022-05-23 13:23:54,4,402,,,inactive,1,2,,,,,,
+563,1640,210901009IAA,9,3,100,2,1,GBP,IATIA Track pant,,2021-09-01 08:18:55,2022-05-23 13:22:59,6,402,192,6124fe2288bfd1640.pdf,inactive,1,2,,,,,,
+564,1770,210908001JAB,1,15,3000,5,2,USD,,,2021-09-08 04:28:35,2022-05-23 13:22:08,1,402,,,inactive,1,2,,,,,,
+565,1771,210908001PIA,1,10,500,3,4,GBP,,,2021-09-08 10:19:05,2022-05-23 13:21:22,1,402,,,inactive,1,2,,,,,,
+566,1760,210909001ACD,1,10,200,2,2,USD,"Hi there
+I am following up on an order and payment we have made (reference INV-CHANODIL000031 07/21/2021).  
+
+Please would you advise on the status of production please?  Thank you.",,2021-09-09 06:07:12,2022-05-20 03:07:04,1,402,,,active,1,2,,,,,,
+567,1775,210909001LEB,1,24,100,7,4,USD,"For my swim line, I am looking to incorporate high quality fabrics, with swimsuits that are double lined, lay seamless on the body, and made from mostly nylon and partially spandex. 
+
+I have 5 designs total, and would like to do a size range of XS, S, M, L. The designs have 2 different colors each. I am looking to order 500 units total, 100 units for each design, and a mix of 2 colors within each 100 units.",,2021-09-09 17:04:58,2022-05-23 13:20:42,1,402,,,inactive,1,2,,,,,,
+568,1775,210914002LEB,2,24,100,7,4,USD,This is a duplicate of 210909001LEB,,2021-09-14 13:53:39,2022-05-23 13:19:50,1,402,,613a30c37c7031775.png,inactive,1,2,,,,,,
+569,1775,210914003LEB,3,24,100,7,4,USD,This is a duplicate of 210914002LEB,,2021-09-14 13:53:59,2022-05-23 13:18:46,1,402,,613a30c37b7e81775.png,inactive,1,2,,,,,,
+570,1775,210914004LEB,4,24,100,7,4,USD,This is a duplicate of 210914003LEB,,2021-09-14 13:54:18,2022-05-23 13:16:25,1,402,,613a30c37a6951775.png,inactive,1,2,,,,,,
+571,1775,210914005LEB,5,24,100,7,4,USD,This is a duplicate of 210914004LEB,,2021-09-14 13:54:32,2022-05-23 13:15:38,1,402,,613a30c3790651775.png,inactive,1,2,,,,,,
+572,1776,210915001HAB,1,20,140,2,2,GBP,,,2021-09-15 12:13:14,2022-05-23 13:14:48,1,402,,6141d54b9e1691776.jpeg,inactive,1,2,,,,,,
+573,1754,210920006MOD,6,12,50,2,2,GBP,This is a duplicate of 210812002MOD,,2021-09-20 09:56:14,2022-05-23 13:13:57,3,402,,,inactive,1,2,,,,,,
+574,1734,210921003SPB,3,19,150,3,1,GBP,"I have uploaded pictures and information from my website, I have other items to be manufactured, but I do have the patterns for them",2021-09-24 11:43:16,2021-09-21 14:22:37,2021-09-24 11:43:16,4,402,,6149e86392c231734.jpg,active,1,0,,,,,,
+575,1779,210922001UND,1,15,75,10,4,USD,I’m looking to create high quality thick hoodies that come in a range of colours. I would like for them to have puff print (embroidery) text on the back. I’ll attach a photo of some of my rough ideas.,,2021-09-22 12:55:38,2022-05-23 13:13:26,4,402,,,inactive,1,2,,,,,,
+576,1734,210924004SPB,4,19,250,5,2,GBP,"This is for plain t-shirt. The make up is 97% polyester and 3% spandex. We have sent sample, but not very good. The patterns will show that t-shirts are made so as they can be put on either way, no front or back.. If possible the colours would be white, black, red, pink and navy. I am not sure about quantity until I get price as you know I have a lot products to get manufactured. You will have electronic pattern. I have attached photo and spec
+
+Our Sensory T-Shirts have been designed to help make getting dressed easier whilst also providing a comfortable alternative to traditional cotton t-shirts with our unique fabric blend that helps reduce lingering perspiration odours, eliminates itchy seams and can be worn back-to-front or inside-out!
+
+ 
+Why consider a Sensory T-Shirt?
+
+Itchy seams and annoying labels can cause both irritation and a negative association with getting dressed – which can make getting ready for school more time consuming and distressing than it should be. Our sensory clothing range eliminates unnecessary irritations and helps your child feel more comfortable during the day.
+
+The reversible design which can also be worn back to front helps alleviate the anxiety of getting changed after P.E. or simply to provide a comfortable alternative to traditional casual wear around the house.",,2021-09-24 12:04:18,2022-11-17 10:59:57,3,402,,,completed,1,2,,,,,,
+577,1734,210924005SPB,5,25,150,3,2,GBP,"We have sent the pattern for these, plain polo shirts. We have also sent sample which is very badly made up we need a soft cotton and again all seams sewn down. Made from AZO-free, supersoft cotton/elastane fabric which is gentle on the skin. Again I need prices before I can give quantity",,2021-09-24 12:27:24,2022-11-17 10:37:35,3,402,,,inactive,1,2,,,,,,
+578,1734,210924006SPB,6,25,500,3,1,GBP,"We do not have patterns for this garment, It is a polo shirt on top but has poppers at bottom to hold diaper in place. BODYSUIT/POPPER VEST FEATURES:
+
+    Designed with a longer leg, reinforced crotch and 5 durable studs all for additional coverage
+    Flat-locked side seams to prevent digging into the skin under a brace
+    Crotch does up back over front making it that little bit harder for your child to reach their nappy
+    Top-stitched seams to minimise curling of the leg/neck/armhole openings
+    Tag-free so your child can move without uncomfortable irritation
+    Made from AZO-free, supersoft cotton/elastane fabric which is gentle on the skin
+    Available for ages 3-16 years old in a variety of colours",,2021-09-24 12:36:23,2022-11-17 10:59:40,3,402,,,completed,1,2,,,,,,
+579,1781,210924001MEA,1,5,50,10,2,USD,Looking for textile producer for custom woven design in suiting materials.,,2021-09-25 00:29:25,2022-05-23 12:59:56,4,402,,,inactive,1,2,,,,,,
+580,1781,210924002MEA,2,7,50,1,2,USD,Interwoven designs in suiting for special occasion wear / statement wear.,2021-09-25 00:36:35,2021-09-25 00:35:49,2021-09-25 00:36:35,2,,,,active,1,0,,,,,,
+581,1782,210926001OLA,1,1,2000,2,2,USD,please find attached samples,,2021-09-26 17:51:41,2022-05-23 12:57:12,1,402,,,inactive,1,2,,,,,,
+582,366,210927007JBA,7,13,2000,1,4,GBP,fabric - 44%,2021-09-27 19:20:52,2021-09-27 13:14:40,2021-09-27 19:20:52,5,,,,active,1,0,,,,,,
+583,366,210927008JBA,8,13,2000,1,4,GBP,This is a duplicate of 210927007JBA,2021-09-27 19:20:43,2021-09-27 13:16:07,2021-09-27 19:20:43,5,,,,active,1,0,,,,,,
+584,1721,211004005NOC,5,1,200,1,1,GBP,,,2021-10-04 14:49:59,2022-05-23 12:56:43,1,402,,,inactive,1,2,,,,,,
+585,1784,211005001YMA,1,23,320,4,3,EUR,"Hello. 
+We have a winter order in two stages. Please see the attachment for the order details. We would like to order the first 320 items to test your quality and if everything is OK and quality is high we will order 2000 more.",,2021-10-05 12:56:43,2022-05-23 12:55:49,1,402,,,inactive,1,2,,,,,,
+586,1785,211006001SQA,1,12,1050,6,1,USD,,,2021-10-06 14:23:23,2022-05-23 12:53:52,3,402,,,inactive,1,2,,,,,,
+587,1785,211006002SQA,2,12,1050,6,1,USD,,,2021-10-06 14:35:25,2022-05-23 12:51:09,3,402,,,inactive,1,2,,,,,,
+588,1719,211007002REC,2,3,300,6,2,EUR,,,2021-10-07 15:42:20,2022-05-23 12:48:33,2,402,,,inactive,1,2,,,,,,
+589,1719,211011003REC,3,3,200,4,2,EUR,,2021-10-13 09:26:28,2021-10-11 10:37:06,2021-10-13 09:26:28,2,1695,,,active,1,0,,,,,,
+590,1719,211013004REC,4,3,200,4,2,EUR,,,2021-10-13 09:26:14,2022-05-23 12:50:06,2,402,,,inactive,1,2,,,,,,
+591,1768,211016002A.A,2,17,50,1,4,USD,,,2021-10-16 11:52:56,2022-05-23 12:48:07,4,402,,,inactive,1,2,,,,,,
+592,1792,211023001LCA,1,14,200,2,3,USD,,,2021-10-23 15:34:20,2022-05-23 12:46:22,2,402,,,inactive,1,2,,,,,,
+593,1794,211026001WAB,1,8,500,2,1,USD,"We are looking to make bath towels, bath mats and bath robes for our business using Turkish cotton and have them embroidered",2021-10-26 19:12:10,2021-10-26 19:09:42,2021-10-26 19:12:10,5,,,,active,1,0,,,,,,
+594,1796,211029001FLA,1,1,200,2,3,USD,I'm looking forward to working with the team to develop a new type of durag. I also gave rough estimates for the stage deadlines.,,2021-10-30 00:07:21,2022-12-22 07:03:11,5,402,,617c7eaea6b4e1796.pdf,inactive,1,2,,,,,,
+595,1797,211104001NEC,1,1,50,3,1,USD,,2021-11-04 14:43:07,2021-11-04 14:41:38,2021-11-04 14:43:07,2,,,,active,1,0,,,,,,
+596,1797,211104002NEC,2,1,50,4,1,USD,Performance T-shirt,,2021-11-04 14:56:59,2022-05-20 03:07:04,2,402,,,active,1,2,,,,,,
+597,1797,211104003NEC,3,1,50,2,1,USD,Performance Shorts,,2021-11-04 14:58:22,2022-05-23 09:17:54,2,402,,,inactive,1,2,,,,,,
+598,1797,211104004NEC,4,1,50,2,1,USD,Joggers,,2021-11-04 14:59:33,2022-05-23 09:18:18,2,402,,,inactive,1,2,,,,,,
+599,1797,211104005NEC,5,22,50,2,1,USD,Socks - Accessories,,2021-11-04 15:01:32,2022-05-23 08:22:45,5,402,,,inactive,1,2,,,,,,
+600,1799,211106001NIB,1,3,50,5,2,USD,,,2021-11-06 07:55:07,2022-05-23 08:20:46,1,402,,,inactive,1,2,,,,,,
+601,1801,211107001SHD,1,3,1000,10,1,GBP,"What is it? 
+
+-	A shorts company which sells fun and quirky designs. 
+-	To be versatile in use i.e. wear them styled up, festival, everyday.
+
+Who for? 
+
+-	Initially for men – sizes xs – xl 
+-	Children (boys)",,2021-11-07 12:29:42,2022-05-23 08:20:04,2,402,,,inactive,1,2,,,,,,
+602,1804,211110001PTA,1,3,100,2,2,GBP,Tech Pack has been sent to your email,,2021-11-10 13:20:07,2022-05-23 08:19:25,2,402,,,inactive,1,2,,,,,,
+603,1805,211115001BOC,1,3,500,4,3,USD,"Organic Combed Cotton
+100% cotton",,2021-11-15 22:09:34,2022-05-23 08:18:43,4,402,,,inactive,1,2,,,,,,
+604,1806,211117001DOC,1,13,500,3,4,USD,"Vegan Leather Dog collar - sustainably made - no harsh chemicals - 3 Colors - Pink (Pantone 13-1513), Off White (Pantone 11-0602), Brown (Pantone 18-1019)",2022-08-18 12:11:03,2021-11-17 01:14:57,2022-08-18 12:11:03,6,1693,,,inactive,1,2,,,,,,
+605,1807,211123001SHE,1,3,100,1,3,GBP,"Knit construction fabric. Design to be woven not, digital printing.
+Can send further examples",,2021-11-23 11:11:17,2022-05-23 12:45:45,1,402,,,inactive,1,2,,,,,,
+606,1808,211123001A.B,1,7,200,1,2,USD,,,2021-11-23 12:57:13,2022-05-23 07:22:49,1,402,,,inactive,1,2,,,,,,
+607,1808,211123002A.B,2,7,200,1,2,USD,,,2021-11-23 12:59:31,2022-05-23 07:22:23,1,402,,,inactive,1,2,,,,,,
+608,1808,211123003A.B,3,7,200,1,2,USD,,,2021-11-23 13:01:04,2022-05-23 07:21:51,1,402,,,inactive,1,2,,,,,,
+609,1808,211123004A.B,4,7,200,1,2,USD,,,2021-11-23 13:02:16,2022-05-23 07:21:32,1,402,,,inactive,1,2,,,,,,
+610,1808,211123005A.B,5,7,200,1,2,USD,,,2021-11-23 13:03:31,2022-05-23 07:19:16,1,402,,,inactive,1,2,,,,,,
+611,1808,211123006A.B,6,7,200,1,3,USD,,,2021-11-23 13:04:40,2022-05-23 07:18:55,1,402,,,inactive,1,2,,,,,,
+612,1707,211130003DAC,3,15,50,2,2,USD,,,2021-11-30 06:20:08,2022-05-23 08:18:08,1,402,,,inactive,1,2,,,,,,
+613,1809,211130001POB,1,15,54,6,2,USD,"cotton or cotton blend fabric, elastic waistband (boxer like)",,2021-11-30 11:26:52,2022-05-23 07:18:06,1,402,,,inactive,1,2,,,,,,
+614,1809,211130002POB,2,15,54,6,2,USD,"cotton or cotton blend fabric, elastic waist band (boxer like)",,2021-11-30 11:29:36,2022-05-23 07:17:42,1,402,,,inactive,1,2,,,,,,
+615,1809,211130003POB,3,15,54,6,2,USD,"cotton or cotton blend fabric, elastic waist band (boxer like)",,2021-11-30 11:30:49,2022-05-23 07:17:21,1,402,,,inactive,1,2,,,,,,
+616,1809,211130004POB,4,15,54,6,2,USD,"padding, cotton or cotton blend fabric, elastic waist band (boxer like),",,2021-11-30 11:33:03,2022-05-23 07:16:59,1,402,,,inactive,1,2,,,,,,
+617,1812,211203001SHF,1,10,3000,4,1,USD,,2021-12-06 14:34:15,2021-12-03 09:08:59,2021-12-06 14:34:15,1,402,,,active,1,0,,,,,,
+618,1815,211213001TBD,1,1,1000,3,1,GBP,"100% recycled material activewear for Men's and Women's.
+
+Women's line:
+1. Sports Bar
+2. Long sleeve top
+3. Shorts.
+4. Leggings
+
+Men's.
+1. T-shirt
+2. Shorts
+3. Joggers
+
+A brand we draw inspiration from is www.sundried.com
+
+Ideally production is out of Europe.",,2021-12-13 14:58:14,2022-05-23 08:17:34,2,402,,,inactive,1,2,,,,,,
+619,1818,211217001EIB,1,5,50,1,1,USD,I need to make 4 designs of evening dress with a luxurious high quality product,,2021-12-17 04:56:47,2022-05-23 08:17:04,1,402,,,inactive,1,2,,,,,,
+620,1821,211220001ELC,1,1,150,1,1,GBP,"2 designed Sports Bras  (tech packs have been completed). 1 colour in each design.  1 design is a high impact sports bra, encapsulation style design. 1 design is low/medium impact, leisure type sports bra.  Sizes initially would be;
+Back sizes 28-30, 32-34, 36-38, 40-42 (4 sizes).
+Cup grading E, F, G, H.
+With growth potential from D- JJ Cup grading.
+Tech packs are available once NDA has been signed.",,2021-12-20 20:47:56,2022-10-12 10:20:23,1,402,,,inactive,1,2,,,,,,
+621,1822,211222001LOA,1,15,7200,7,2,USD,"Waffle Bathrobe
+60% Cotton 40% Polyester
+Same Material Waffle Slippers Matching Color with robes",,2021-12-22 00:35:35,2022-05-23 07:13:09,4,402,,,inactive,1,2,,,,,,
+622,1812,211227002SHF,2,10,3000,4,1,USD,"Hello,
+
+we already had a meeting and I'm posting our inquiry again.",,2021-12-27 01:47:55,2022-05-23 07:59:32,1,402,,,inactive,1,2,,,,,,
+623,1829,220105001OFA,1,10,100,2,1,GBP,Crop top,,2022-01-05 10:25:32,2022-10-12 10:23:04,1,402,,,inactive,1,2,,,,,,
+624,1829,220105002OFA,2,10,100,2,1,GBP,Cross over bra,,2022-01-05 10:26:34,2022-10-12 10:22:34,1,402,,,inactive,1,2,,,,,,
+625,1829,220105003OFA,3,10,100,2,1,GBP,Triangle bra,,2022-01-05 10:26:37,2022-10-12 10:21:54,1,402,,,inactive,1,2,,,,,,
+626,1829,220105004OFA,4,10,100,2,1,GBP,High leg brief,,2022-01-05 10:26:43,2022-10-12 10:21:37,1,402,,,inactive,1,2,,,,,,
+627,1829,220105005OFA,5,10,100,2,1,GBP,High waist brief,,2022-01-05 10:26:46,2022-10-12 10:21:21,1,402,,,inactive,1,2,,,,,,
+628,1829,220105006OFA,6,10,100,2,1,GBP,Womens Thong,,2022-01-05 10:28:01,2022-10-12 10:21:09,1,402,,,inactive,1,2,,,,,,
+629,1830,220110001CUA,1,21,300,3,2,EUR,"We are looking for assistance in creating the following with our brand.  We have initial samples.
+1) A silk pillow wrap that attaches to the pillow with Velcro and has brushed cotton underneath so it doesn't slide.
+2) A silk hair bonnet
+3) Silk Hairbands (essential for pineapple hair)
+4) and last and most important a hair elongating sock in silk",,2022-01-10 12:38:25,2022-09-15 13:40:04,5,1693,,,inactive,1,2,,,,,,
+630,1833,220111001ZOA,1,3,200,3,1,USD,"I would like to open a company that is specialised on pet clothing (bathrobes).
+I have a design that is almost finalised, but I would need a split of sizes & technical drawings together with samples & production",,2022-01-11 13:45:04,2022-05-23 07:14:14,6,402,,,inactive,1,2,,,,,,
+631,1834,220112001AZA,1,14,10000,1,4,GBP,"We are looking for a flexible, strong strap
+
+- soft PVC coated webbing (rubber/silicone feel)
+- 630mmx25mm
+- metal buckle secured with rivets or sewn
+- velcro fastening
+- premium feel and look
+
+Thank you",,2022-01-12 12:09:23,2022-11-15 08:41:58,5,402,,61dedc2ea6f311834.pdf,inactive,1,2,,,,,,
+632,1836,220114001AYA,1,15,50,4,4,GBP,,,2022-01-14 14:53:15,2022-11-17 11:01:39,1,402,,,inactive,1,2,,,,,,
+633,381,220125003MAG,3,3,60,1,2,GBP,a skirt this sort of style in white broidery fabric,,2022-01-25 15:35:44,2022-05-20 03:07:04,1,402,,,active,1,2,,,,,,
+634,381,220125004MAG,4,3,80,2,2,GBP,,,2022-01-25 15:42:11,2022-05-20 03:07:04,1,402,,,active,1,2,,,,,,
+635,1846,220128001PSB,1,7,300,5,1,EUR,"We have the exact shirt design already to copy (from our own original design). We would like to see what types of naturally dyed linen's are available, types and colour options and the sourcing of sustainable fabrics and buttons.",,2022-01-28 15:15:53,2022-05-23 07:12:28,2,402,,,inactive,1,2,,,,,,
+636,250,220202012MAB,12,16,100,2,1,GBP,"Please update : illustrations, spec sheet, label, packaging, POM
+Original TP attached",,2022-02-02 21:19:48,2022-12-11 14:38:55,1,402,,61faf6767b8ea250.pdf,active,1,2,,,,,,Legging
+637,381,220204005MAG,5,3,60,1,2,GBP,A pointelle rara dress same fabric as the skirt which is in another enquiry.,,2022-02-04 14:50:27,2022-05-23 07:11:30,1,402,,,inactive,1,2,,,,,,
+638,1851,220207001TBE,1,12,50,3,2,USD,"I have 11 styles - 6 dresses and 2 playsuits, all in woven fabrics; 3 swimwear in recycled fabric with UPF50+, oil- and chlorine-resistant (Econyl or Repreve). Looking at around 50 pieces per style, per colour. 
+-Custom dyeing based on selected Pantone shade or
+-digital printing (repeat) for select styles
+- sustainable and biodegradable woven fabrics - organic cottons, linen and hemps; blends; Tencel; open to recycled fabrics",,2022-02-07 12:26:14,2022-05-23 07:10:36,3,402,,,inactive,1,2,,,,,,
+639,1851,220207002TBE,2,12,50,2,2,USD,"I have 11 styles - 6 dresses and 2 playsuits, all in woven fabrics; 3 swimwear in recycled fabric with UPF50+, oil- and chlorine-resistant (Econyl or Repreve). Looking at around 50 pieces per style, per colour. 
+-Custom dyeing based on selected Pantone shade or
+-digital printing (repeat) for select styles
+- sustainable and biodegradable woven fabrics - organic cottons, linen and hemps; blends; Tencel; open to recycled fabrics",,2022-02-07 12:27:39,2022-05-23 07:10:12,3,402,,,inactive,1,2,,,,,,
+640,1852,220207001CLB,1,12,2000,1,3,USD,"I'd like to alter the tech packs for the clothing once we know what the manufacturer is capable of. I would like to add more details to the design and make it more elaborate but also not increase the cost too much, so I would like your guidance in how to best balance those two factors.",,2022-02-07 16:37:41,2023-01-26 10:50:35,6,2017,,6234c24edcc5b402.pdf,active,1,2,,Test product,1,,,
+641,1853,220208001KUA,1,24,50,4,1,EUR,I'm looking to source Econyl regenerated fabric samples for swimwear.,,2022-02-08 17:47:14,2022-05-23 05:17:24,1,402,,,inactive,1,2,,,,,,
+642,1854,220210001ZIA,1,5,50,3,2,USD,,,2022-02-10 09:40:13,2022-05-23 05:16:50,1,402,,,inactive,1,2,,,,,,
+643,1697,220214002TEC,2,5,50,2,2,USD,This is a test inquiry. Please ignore.,2022-02-14 00:17:46,2022-02-14 00:17:23,2022-02-14 00:17:46,2,,,,active,1,0,,,,,,
+644,1857,220216001DAD,1,24,100,3,2,USD,,,2022-02-16 20:50:31,2022-11-15 08:37:46,4,402,,62419ddbae38f402.jpeg,inactive,1,2,,,,,,
+645,1856,220217001RAA,1,4,100,1,1,USD,,2022-02-17 10:12:06,2022-02-17 06:02:15,2022-02-17 10:12:06,2,,,,active,1,0,,,,,,
+646,1856,220217002RAA,2,4,50,5,1,USD,,2022-02-17 10:12:01,2022-02-17 06:06:10,2022-02-17 10:12:01,3,,,,active,1,0,,,,,,
+647,1856,220217003RAA,3,3,100,2,2,GBP,,2022-02-17 10:11:52,2022-02-17 06:07:16,2022-02-17 10:11:52,5,,,,active,1,0,,,,,,
+648,1856,220217004RAA,4,2,100,3,2,USD,,2022-02-17 10:11:44,2022-02-17 06:10:06,2022-02-17 10:11:44,2,,,,active,1,0,,,,,,
+649,1859,220219001SKA,1,20,271,1,4,USD,"30 den
+Black matte sheer-opaque material
+soft knitted waistband
+solid black front and back center seams, they elegantly accentuate the natural contours of the body
+material: 86% polyamide, 14% elastane
+4 sizes: XS, S, M, L
+Quantity: XS (50), S (100), M (100), L (50)",2022-04-13 07:32:12,2022-02-19 11:25:02,2022-04-13 07:32:12,1,402,,,active,1,0,,,,,,
+650,1859,220219002SKA,2,20,270,1,4,USD,"30 den Black matte sheer-opaque material soft knitted waistband solid black front and back center seams, they elegantly accentuate the natural contours of the body material: 86% polyamide, 14% elastane 4 sizes: XS, S, M, L Quantity: XS (50), S (100), M (100), L (50)",,2022-02-19 20:51:13,2022-12-11 14:38:55,1,402,,,inactive,1,2,,,,,,Psalm
+651,1859,220219003SKA,3,20,260,1,4,USD,"30 den 
+Midnight blue matte sheer-opaque with shiny detailings material 
+soft knitted waistband solid midnight blue front and back center seams, they elegantly accentuate the natural contours of the body material: 86% polyamide, 14% elastane 4 sizes: XS, S, M, L Quantity: XS (50), S (100), M (100), L (50)",,2022-02-19 20:57:30,2022-12-11 14:38:55,1,402,,,inactive,1,2,,,,,,Midnight
+652,1859,220219004SKA,4,20,270,1,4,USD,"30 den 
+Light/dark brown shimmer sheer-opaque material 
+soft knitted waistband 
+solid dark brown front and back center seams, they elegantly accentuate the natural contours of the body material: 86% polyamide, 14% elastane 4 sizes: XS, S, M, L Quantity: XS (50), S (100), M (100), L (50)
+*photo of body suits is for colour reference for light and dark brown",,2022-02-19 21:06:11,2022-12-11 14:38:55,1,402,,,inactive,1,2,,,,,,Shimmer
+653,1859,220220005SKA,5,10,100,1,4,USD,"A perfect wireless bra option, this sheer scoop neck bralette features seamless construction and a double layered under band for light support.
+
+Scoop Neck Bralette, Pull Over Style, Elasticized Under Bust For Light Support, Scoop Front And Back, Slightly Sheer Seamless Construction
+86% Nylon / 14% Spandex",,2022-02-20 08:11:50,2022-12-11 14:38:55,1,402,,,inactive,1,2,,,,,,Mimi hosiery Bralette
+654,1859,220220006SKA,6,10,105,1,4,USD,"A perfect wireless bra option, this sheer scoop neck bralette features seamless construction and a double layered under band for light support.
+* Scoop Neck Bralette, Pull Over Style, Elasticized Under Bust For Light Support, Scoop Front And Back, Slightly Sheer Seamless Construction",,2022-02-20 08:16:18,2022-12-11 14:38:55,1,402,,,inactive,1,2,,,,,,Psalm Hosiery Bralette
+655,366,220225009JBA,9,1,5000,1,3,GBP,,,2022-02-25 18:26:08,2022-12-11 14:38:55,1,402,,,active,1,2,,,,,,test
+656,1860,220225001WIC,1,1,200,1,3,USD,"For our spats (leggings): We’re looking for a knit fabric that is 79% polyester and 21% spandex. Our spats have a three inch wide elastic band sewn into the top of the leggings that make them high waisted, and then there is fabric sewn over the band, and there are three seams in the waistband that prevent it from folding over. There is a large snake design sublimated on the left leg. The sublimated leg starts with white fabric that has the design sublimated and then the rest of the leg dyed black around it, and the leg with no design is just black fabric.",,2022-02-25 21:31:59,2022-05-23 05:15:37,1,402,,,inactive,1,2,,,,,,
+657,1860,220225002WIC,2,1,200,1,3,USD,"For our rash guard (top): We’re looking for a knit fabric that is 79% polyester and 21% spandex, with a GSM of about 230. The rash guard has a slight v-neck, and a built in rubber band inside the waist that prevents it from riding up. There is a large snake design sublimated on the back, and a smaller snake design sublimated on the front.",,2022-02-25 21:36:50,2022-05-23 07:01:49,1,402,,,inactive,1,2,,,,,,
+658,1860,220225003WIC,3,1,200,1,3,USD,"For our Muay Thai shorts: We’re using 100% Polyester for the outside shorts, and there are built-in compression shorts underneath made with a fabric that is 79% polyester and 21% spandex. There are tiger designs sublimated on the front of the shorts, as well as branded tape sewn around the base of the shorts. The waistband is sublimated with the words “Wicked Rose”, and is crimped. We have sewn an elastic band into the base of the compression shorts that prevents them from riding up while the athlete trains.",,2022-02-25 21:41:29,2022-05-23 07:01:27,1,402,,,inactive,1,2,,,,,,
+659,1697,220228003TEC,3,8,105,3,2,USD,Test inquiry,2022-02-28 01:35:48,2022-02-28 01:35:38,2022-02-28 01:35:48,5,,,,active,1,0,,,,,,
+660,1868,220302001FEC,1,5,50,1,2,GBP,"Hi, 
+
+Please see attached the tech pack, size chart, wash care art work and swing tag artwork.  The tech pack includes artwork for the BNL.
+
+The project is called the Saree Top.  It is a cultural fusion and this first design comprises a stretch velvet women's longsleeved top  with a square neck and a chiffon saree sash travelling from one bottom corner and over the opposite shoulder. 
+
+I have already had one sample made however it needs improvements.  
+
+See also some images of the sample and a list of adjustments needed. 
+
+The highest priority for me at the moment is getting the fabric right.  The problem with the current sample is there is absolutely no stretch in the velvet (its supposed to be dual sized) and its very uncomfortable to wear.  Additionally the chiffon used for the saree sash is cheap quality, looks more like cotton and creases easily. 
+
+The size chart was created by a garment tech in the UK.  The sample has been nicely stitched and so I think the main issue really is the lack of stretch rather than the sizing.   But your thoughts on this would also be welcomed. 
+
+If you would kindly provide an idea of pricing for sample and bulk production as well as what the usual shipping rates, I would be most grateful, 
+
+Thank you, 
+Fatima",,2022-03-02 17:03:39,2022-05-23 06:58:03,1,402,,,inactive,1,2,,,,,,
+661,1872,220303001IKA,1,3,100,1,1,USD,,,2022-03-03 13:54:06,2022-05-26 07:50:52,4,1693,,,inactive,1,2,,,,,,
+662,1876,220305001ARB,1,3,50,2,2,USD,"We are working on our flat lay designs but will attach pics of similar styles. Initially we will have 5 styles in 2 colourways for each style. We need assistance to complete some of the tech pack information. The fabrics will be linen/cupro blends, or a soft linen.",2022-04-13 09:03:24,2022-03-05 09:44:46,2022-04-13 09:03:24,1,,,,active,1,0,,,,,,
+663,1877,220305001HOC,1,5,50,1,4,GBP,"Hi All, I'm starting a clothing brand and I'm looking for a Manufacturer. This will be my first collection and will feature 4 designs. I will need a qty of 30 pieces per design (sizing will be XS - L) I have tech packs but will need help with: Pattern cutting grading sampling samples fabrics and production (If possible the collection will need to be made within 8 weeks) About my brand my brand will offer unique clothing aimed at girls 18-25. The fashion-forward brand will offer a range of fun and girly clothing. Inspired by nostalgic moments in pop culture. The brand will offer co-ords, dresses, and unitards. The vibrant clothes will be made for girls, who want to stand out and are free spirits and love festivals, raves, Ibiza, and going out.",,2022-03-05 16:11:19,2022-05-23 06:56:47,1,402,,,inactive,1,2,,,,,,
+664,1878,220306001HUB,1,3,50,2,1,USD,,,2022-03-06 01:29:19,2022-05-23 06:59:55,1,402,,,inactive,1,2,,,,,,
+665,1882,220308001HAC,1,24,600,2,2,GBP,"I am looking to produce swimwear for women and children 0-8 yrs in crinkle swim fabric and design of 2 prints to fabric - a leopard print and pastel swirl. 
+
+The tech pack sizing for women is based off a one size crinkle swimsuit 
+
+The fabric is 93% polyester 7% elastane and needs to be lined so that they are not see through and good quality like photos attached as reference - see link for the swimsuit style
+
+https://www.asos.com/asos-design/asos-design-crinkle-low-back-swimsuit-in-natural-tones/prd/22854370?clr=natural-tones&colourWayId=60431482&SearchQuery=crinkle+swimsuit",,2022-03-08 11:55:06,2022-05-26 07:51:18,1,1693,,,inactive,1,2,,,,,,
+666,1884,220311001KAC,1,4,200,2,2,USD,"Skinny jeans 
+Stretchy fabric 
+High waist and mid rise",,2022-03-11 20:26:52,2022-05-30 10:51:07,1,1693,,,inactive,1,2,,,,,,
+667,1885,220314001SPC,1,1,10100,4,3,USD,,,2022-03-14 12:02:16,2022-11-17 11:03:09,1,402,,,inactive,1,2,,,,,,
+668,1877,220314002HOC,2,5,50,1,4,USD,,,2022-03-14 19:04:56,2022-05-23 06:56:26,1,402,,,inactive,1,2,,,,,,
+669,1877,220314003HOC,3,5,50,1,4,GBP,,,2022-03-14 19:06:34,2022-05-23 06:56:04,1,402,,,inactive,1,2,,,,,,
+670,1890,220315001ALF,1,3,500,2,3,USD,"For fabric type, please see tech pack pg 1. 
+I've attached the tech pack, logos to be embroidered and woven into the sleeves. Please see the tech pack for details of coloring, placement, and sizing. 
+I've also attached the neck tags. 
+We are looking to begin sampling with the large shirt.",,2022-03-15 15:18:21,2022-08-26 11:42:04,2,402,,,active,1,2,,,1,,,
+671,1863,220316001HEB,1,10,500,3,2,USD,"Hi
+
+I'm looking for a manufacturing partner to produce three underwear designs, full, boyleg and hipster briefs, for plus size women. If you are taking on new clients, can you please send through a quote for the following services? 
+
+Design Overview 
+3 x Styles ( Full Brief, Boyleg briefs and hipster briefs) 
+5 sizes: 18, 20 ,22, 24, 26 
+Ideal Fabric: Cotton/Elastane 
+See attached draft TechPacks 
+
+Please can you advise the following; 
+Your MOQ per style & colour 
+A quote for patterns & sampling, based on at least 3 samples (toile, proto 1, pre-production) 
+Grading costs 
+An estimated unit cost price 
+Any fabric suggestions you think could suit?
+
+Please reach out if you have any questions or would like to discuss the details on a video call if need be. 
+
+Thanks",,2022-03-16 04:03:35,2022-07-27 11:38:30,1,1693,,,inactive,1,2,,,,,,
+672,1891,220316001AYB,1,21,400,4,1,USD,"Looking to create luxury sleep-mask that has the following qualities:
+- shell made from bamboo fabric
+- concave eyeholes 
+- sleek design 
+- 100% blackout
+- made using sustainable materials
+
+
+Firstly looking for tech pack and design help.",,2022-03-16 12:26:21,2022-12-22 06:59:59,5,402,,,inactive,1,2,,,,,,Sleep Mask
+673,1892,220318001SPD,1,27,50,1,1,USD,This is a test inquiry. Please ignore,,2022-03-18 09:30:40,2022-05-30 10:51:20,1,1693,,,inactive,1,2,,,,,,
+674,1697,220319004TEC,4,3,304,2,2,USD,Test inquiry. Please ignore.,2022-03-19 09:03:39,2022-03-19 09:03:16,2022-03-19 09:03:39,3,,,,active,1,0,,,,,,
+675,1898,220321001PAC,1,12,300,6,3,GBP,,,2022-03-21 21:20:42,2022-05-23 06:52:25,3,402,,,inactive,1,2,,,,,,
+676,1893,220322001RAB,1,3,500,10,1,USD,test case,2022-03-22 17:41:23,2022-03-22 17:24:40,2022-03-22 17:41:23,2,,,,active,1,0,,,,,,
+677,1893,220322002RAB,2,3,500,10,1,USD,test case 2,2022-03-22 17:41:14,2022-03-22 17:26:18,2022-03-22 17:41:14,2,,,,active,1,0,,,,,,
+678,1893,220322003RAB,3,3,5000,50,2,GBP,Test case 1,2022-03-23 09:51:27,2022-03-22 17:51:17,2022-03-23 09:51:27,2,,,,active,1,0,,,,,,
+679,1893,220322004RAB,4,2,2000,5,2,EUR,Test case 2,2022-03-22 18:32:30,2022-03-22 18:21:54,2022-03-22 18:32:30,1,,,,active,1,0,,,,,,
+680,1893,220322005RAB,5,2,5000,30,2,EUR,,2022-03-22 19:05:23,2022-03-22 18:46:28,2022-03-22 19:05:23,1,,,,active,1,0,,,,,,
+681,1893,220322006RAB,6,2,50000,50,4,USD,,2022-03-22 19:05:16,2022-03-22 18:47:23,2022-03-22 19:05:16,1,,,,active,1,0,,,,,,
+682,1893,220322007RAB,7,4,5000,10,3,USD,,2022-03-22 19:05:10,2022-03-22 18:49:15,2022-03-22 19:05:10,4,,,,active,1,0,,,,,,
+683,1893,220322008RAB,8,25,1000,20,4,USD,Test case 5,2022-03-22 19:04:54,2022-03-22 18:59:10,2022-03-22 19:04:54,4,,,,active,1,0,,,,,,
+684,1893,220322009RAB,9,3,5000,50,2,GBP,This is a duplicate of 220322003RAB,2022-03-22 19:04:48,2022-03-22 19:00:05,2022-03-22 19:04:48,2,,,,active,1,0,,,,,,
+685,1895,220323001RAC,1,3,67,7,3,USD,YTYT,2022-03-23 08:29:16,2022-03-23 08:28:34,2022-03-23 08:29:16,3,,,,active,1,0,,,,,,
+686,1895,220323002RAC,2,3,60,2,1,USD,This inquiry is for System Testing purposes only.,2022-03-24 09:31:21,2022-03-23 10:40:48,2022-03-24 09:31:21,2,,,623af932e44601895.jpg,active,1,0,,,,,,
+687,1895,220323003RAC,3,3,60,2,1,USD,This is a duplicate of 220323002RAC,2022-03-23 12:39:38,2022-03-23 12:39:24,2022-03-23 12:39:38,2,,,,active,1,0,,,,,,
+688,1895,220323004RAC,4,3,60,2,1,USD,This is a duplicate of 220323002RAC,2022-03-23 12:59:58,2022-03-23 12:59:17,2022-03-23 12:59:58,2,,,,active,1,0,,,,,,
+689,1913,220405001SID,1,17,50,2,1,GBP,,,2022-04-05 19:02:58,2022-05-23 06:51:57,1,402,,,inactive,1,2,,,,,,
+690,1915,220408001YAB,1,17,50,5,1,GBP,looking for a manufacturer to produce our products also looking for fabric suppliers,,2022-04-08 15:37:05,2022-05-23 06:51:17,1,402,,,inactive,1,2,,,,,,
+691,1917,220409001FOA,1,3,50,5,1,GBP,,,2022-04-09 17:47:04,2022-05-23 06:49:37,2,402,,6255a83ae4d001917.pdf,inactive,1,2,,,,,,
+692,1917,220409002FOA,2,3,50,5,1,GBP,,,2022-04-09 17:47:58,2022-05-23 06:49:03,2,402,,,inactive,1,2,,,,,,
+693,1916,220412001RED,1,19,1200,2,3,USD,"As discussed with Ahmed & Chathura
+
+I am looking for a fully traceable recycled polyester/recycled nylon seamless supplier.  
+
+I have spoken with a couple of developers and it seems we should be able to make seamless garments with the composition of approximately 51% recycled polyester 49% recycled nylon.  
+
+Please confirm if this is possible.  Or if you think there is an alternative.  
+
+Fully traceable recycled thread, seamless garments made on Santoni machines.",,2022-04-12 09:26:43,2023-01-23 15:09:24,2,402,,,active,1,2,,,,,,
+694,1916,220412002RED,2,1,3000,2,3,USD,"Bangladesh based activewear supplier needed.  Gymshark standard.  
+
+Seamless tees price aim - $2-3 
+Woven poly tracksuit & shorts - $? 
+
+Please advise price & minimums for sewn garments",,2022-04-12 09:30:32,2022-05-23 06:47:45,2,402,,,inactive,1,2,,,,,,
+695,1916,220420003RED,3,1,1000,2,3,USD,"Looking for a partner with attached image style knitting capabilities.  
+
+Using recycled yarns.",,2022-04-20 10:56:54,2022-05-23 06:47:11,2,402,,,inactive,1,2,,,,,,
+696,1921,220421001AND,1,23,100,2,3,GBP,"SIZES S-XXL. 
+SAMPLE SIZE - MENS MEDIUM.
+
+1. R-NECK SWEATSHIRT - 100PC - 50PC PER COLOUR - S 15, [M] 35, L 30, XL 12, XXL 8
+
+MATERIALS: 
+
+BODY: ""430 GSM 100% COTTON - FRENCH TERRY LOOPBACK"", 
+RIB: ""430GSM 90/10 COTTON/CASHMERE
+MELTON KNIT""",,2022-04-21 10:12:48,2022-10-12 10:19:18,2,402,,,inactive,1,2,,,,,,
+697,1921,220421002AND,2,3,100,2,3,GBP,"S 15, [M] 35, L 30, XL 12, XXL 8
+sample - mens medium
+
+MATERIALS: 
+
+BODY: ""220GSM 100% PIMA COTTON INTERLOCK"", 
+
+RIB: ""220GSM 100% PIMA COTTON 1:1 RIBBING INTERLOCK""
+
+DECORATION: CUSTOM NECK TAPE, CUSTOM LABEL, & CUSTOM JACQUARD ELASTIC (rough elastic material composition stated in teckpack bill of materials)",,2022-04-21 10:21:28,2022-10-12 10:18:57,2,402,,,inactive,1,2,,,,,,
+698,1921,220421003AND,3,3,100,1,3,GBP,"SIZES S-XXL. 
+SAMPLE SIZE - MENS MEDIUM.
+
+T- SHIRT 1 - 100PC - S 15, [M] 35, L 30, XL 12, XXL 8
+
+
+MATERIALS: 
+BODY: ""200GSM 100% PIMA COTTON INTERLOCK"", 
+
+DECORATION: CUSTOM NECK TAPE, CUSTOM LABEL, & EMBROIDERY",,2022-04-21 10:26:58,2022-10-12 10:18:39,2,402,,,inactive,1,2,,,,,,
+699,1921,220421004AND,4,3,100,1,3,GBP,"T- SHIRT 2 - 100PC 
+S 15, [M] 35, L 30, XL 12, XXL 8 
+SAMPLE MENS MEDIUM
+
+MATERIALS: BODY: ""200GSM 100% PIMA COTTON INTERLOCK"", DECORATION: CUSTOM NECK TAPE, CUSTOM LABEL, SCREEN PRINTING, & EMBROIDERY",,2022-04-21 10:28:12,2022-10-12 10:18:10,2,402,,,inactive,1,2,,,,,,
+700,1899,220421001GEC,1,1,100000,2,1,USD,,2022-06-17 15:21:58,2022-04-21 11:24:13,2022-06-17 15:21:58,2,1693,,,active,1,2,,,,,,
+701,1923,220424001JUD,1,3,600,3,1,GBP,"Need by June 1st 2022 - Sorry for short notice!
+
+Target price 6 pounds per t-shirt including delivery, excluding VAT.
+
+See tech pack. I will provide the printed designs later. There will be 4 printed designs in total, 100 t-shirts for each design (400 total)
+
+See tech pack.
+
+VERY VERY IMPORTANT MEASUREMENTS ARE WITHIN TOLERANCE!! Our brand is all about the fit.",,2022-04-24 14:07:03,2022-05-24 06:00:37,2,402,,,inactive,1,2,,,,,,
+702,1924,220426001JUE,1,4,100,1,4,USD,I'd like to us Armalith AA fabric (armalith.com),,2022-04-26 16:40:28,2023-01-25 11:37:14,1,2017,,627ac147c695c1924.png,active,1,2,,,,,,Riding Jeans
+703,1893,220504010RAB,10,4,50,1,1,USD,Test 1,2022-05-04 05:45:57,2022-05-04 05:37:09,2022-05-04 05:45:57,3,,,,active,1,0,,,,,,
+704,1925,220504001UNF,1,1,50,2,1,USD,Hi! I just created a profile today and we spoken on the phone about helping us with a designer for our collection. Like I said before we had a designer back in 2017/18 that created our first collection for both men and women. This deisgn is maybe old today and need redesign? or just scrape it! Im not sure...,,2022-05-04 14:05:49,2022-05-20 03:07:04,1,402,,,active,1,2,,,,,,
+705,1916,220505004RED,4,1,2000,3,2,USD,as discussed with Chathura and Udesh,,2022-05-05 18:40:30,2022-09-15 09:33:29,2,1693,,,active,1,2,,,,,,
+706,1929,220508001NAC,1,1,200,4,3,USD,,,2022-05-08 01:29:24,2022-05-30 10:52:11,1,1693,,,inactive,1,2,,,,,,
+707,250,220511013MAB,13,16,300,2,1,GBP,Looking to produce 300 pieces of this style or similar. Most probably in two colours. Must be bamboo + viscose,,2022-05-11 13:41:24,2022-06-30 00:41:21,1,402,,627bb31e4e662250.png,active,1,2,,,,,,
+708,250,220511014MAB,14,16,200,2,1,GBP,"Looking for design, sample and production. Bamboo Hoodie with easy breastfeeding access.",,2022-05-11 13:58:02,2022-05-27 15:35:11,1,402,,,pending_deleted_approval,1,2,,,,,,
+709,1905,220513001JUC,1,1,50,1,2,USD,"This is for TESTING purpose only, Please Ignore...!!",2022-05-14 06:08:21,2022-05-13 11:37:44,2022-05-14 06:08:21,2,,,,active,1,0,,,,,,
+710,1905,220513002JUC,2,3,50,1,3,USD,"This is for TESTING purpose only, Please ignore..!!",,2022-05-13 11:39:46,2022-05-20 03:07:04,3,402,,,active,1,2,,,,,,
+711,1932,220518001Q.A,1,1,480,4,2,GBP,"I would like to receive samples first. I have attached the tech packs for the bra and the leggings. The tech packs for the shorts and the jacket will be ready next week.
+
+The bulk production order will be as follows:
+Bra - 
+S - 10 White, 10 Beige, 10 Brown, 10 Grey 
+M - 10 White, 10 Beige, 10 Brown, 10 Grey
+L - 6 White, 6 Beige, 6 Brown, 6 Grey 
+XL - 4 White, 4 Beige, 4 Brown, 4 Grey 
+Leggings - 
+S - 10 White, 10 Beige, 10 Brown, 10 Grey 
+M - 10 White, 10 Beige, 10 Brown, 10 Grey 
+L - 6 White, 6 Beige, 6 Brown, 6 Grey 
+XL - 4 White, 4 Beige, 4 Brown, 4 Grey 
+Jacket - 
+S - 10 White, 10 Beige, 10 Brown, 10 Grey 
+M - 10 White, 10 Beige, 10 Brown, 10 Grey 
+L - 6 White, 6 Beige, 6 Brown, 6 Grey 
+XL - 4 White, 4 Beige, 4 Brown, 4 Grey 
+Shorts - 
+S - 10 White, 10 Beige, 10 Brown, 10 Grey 
+M - 10 White, 10 Beige, 10 Brown, 10 Grey
+L - 6 White, 6 Beige, 6 Brown, 6 Grey 
+XL - 4 White, 4 Beige, 4 Brown, 4 Grey
+
+480 pieces.",,2022-05-18 16:13:08,2022-05-25 12:50:02,1,1693,,62850d072a4d31932.pdf,inactive,1,2,,,,,,
+712,1933,220519001THC,1,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Mysa-Padded-Wired/dp/B09QYT7RK3/ref=sr_1_156?hvadid=82463582326241&hvbmt=bb&hvdev=c&hvqmt=b&keywords=wacoal+bra&qid=1652952488&refinements=p_89%3AWacoal&rnid=3837712031&s=apparel&sr=1-156,,2022-05-19 10:34:50,2022-09-28 15:59:25,1,1693,,,inactive,1,2,,,,,,
+713,1933,220519002THC,2,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Padded-Wired-Forma/dp/B09RQVJKHM/ref=sr_1_82?hvadid=82463582326241&hvbmt=bb&hvdev=c&hvqmt=b&keywords=wacoal+bra&qid=1652952374&refinements=p_89%3AWacoal&rnid=3837712031&s=apparel&sr=1-82,,2022-05-19 10:45:38,2022-09-28 16:01:00,1,1693,,,inactive,1,2,,,,,,
+714,1933,220519003THC,3,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Beauty-Contour-T-Shirt/dp/B00DS4TISU/ref=sr_1_199?hvadid=82463582326241&hvbmt=bb&hvdev=c&hvqmt=b&keywords=wacoal+bra&qid=1652953675&refinements=p_89%3AWacoal&rnid=3837712031&s=apparel&sr=1-199,,2022-05-19 10:49:13,2022-09-28 15:59:40,1,1693,,,inactive,1,2,,,,,,
+715,1933,220519004THC,4,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Visual-Effects-Minimizer/dp/B01MU1EH0I/ref=sr_1_2?crid=41N9O8DNWPR2&keywords=wacoal+bra+minimiser&qid=1652953790&s=apparel&sprefix=wacoal+bra+m%2Capparel%2C1323&sr=1-2,,2022-05-19 10:51:34,2022-09-28 16:00:00,1,1693,,,inactive,1,2,,,,,,
+716,1933,220519005THC,5,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Comfortable-Non-Padded-Underwired/dp/B08FB3DGWP/ref=sr_1_49?hvadid=82463582326241&hvbmt=bb&hvdev=c&hvqmt=b&keywords=wacoal+bra&qid=1652952374&refinements=p_89%3AWacoal&rnid=3837712031&s=apparel&sr=1-49,,2022-05-19 10:52:02,2022-09-28 16:00:42,1,1693,,,inactive,1,2,,,,,,
+717,1933,220519006THC,6,10,50,2,4,USD,https://www.amazon.in/Wacoal-Womens-Sports-Padded-Ensign/dp/B091H5825J/ref=sr_1_89?hvadid=82463582326241&hvbmt=bb&hvdev=c&hvqmt=b&keywords=wacoal+bra&qid=1652952374&refinements=p_89%3AWacoal&rnid=3837712031&s=apparel&sr=1-89,,2022-05-19 10:53:50,2022-09-28 16:01:15,1,1693,,,inactive,1,2,,,,,,
+718,1933,220519007THC,7,10,50,2,4,USD,https://www.wacoalindia.com/franca-full-cup-padded-non-wired-bra-ib5448-or.html,,2022-05-19 10:55:43,2022-09-28 16:00:26,1,1693,,,inactive,1,2,,,,,,
+719,1935,220523001AYC,1,3,300,4,1,GBP,"Dog and human Hoodies. 
+unique pattern and style, this would be linked to a human hoodie.
+
+please see attached website that we would compare ourselves to. www.sparkpaws.uk/shop_online
+
+Lines we would like to start of would be four dog hoodie and one adult if possible
+Theme 
+Xmas,
+tie die
+dinosaur
+and one uni sex hoodie
+
+please see link to one of our current offers of manufacturing
+https://go.quotientapp.com/q/uIwcS9kN2evpCvv6Xvp-PfdW.CSdyrS0ikk26JUrEM8",,2022-05-23 10:49:56,2022-06-07 09:11:41,6,1693,,,inactive,1,2,,,,,,
+720,1934,220523001ARC,1,10,50,2,2,EUR,"Hi,
+My name is Ariane, I am the founder and Head designer of the luxurious lingerie and nightwear brand Ariane Delarue. I am looking for new factories based in the EU for manufacturing my collections. 
+From now I am working with a small factory based in Barcelona, but their production capacity is small. In June I will be taking part in the International Lingerie Fair in Paris and I hope to get a large amount of orders for this event. I am therefore looking for high quality manufacturers based in Europe only and that could answer to a medium/large production demand.
+I am attaching lookbook and I would like to be able to send you tech-packs in order to receive quotes for sampling and production.
+
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:29:44,2022-06-01 19:59:40,1,402,,,inactive,1,3,,,,,,
+721,1934,220523002ARC,2,15,50,2,2,EUR,"Hi,
+I am attaching the techpack of this satin silk nightdress in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:33:28,2022-07-20 09:42:35,1,1693,,,inactive,1,3,,,,,,
+722,1934,220523003ARC,3,15,50,2,2,EUR,"Hi,
+I am attaching the techpack of this top in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:35:11,2022-07-20 09:45:02,1,1693,,,inactive,1,3,,,,,,
+723,1934,220523004ARC,4,15,50,2,2,EUR,"Hi,
+I am attaching the techpack of this short in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:36:16,2022-07-20 09:44:40,1,1693,,,inactive,1,3,,,,,,
+724,1934,220523005ARC,5,15,50,2,2,EUR,"Hi,
+I am attaching the techpack of this babydoll nightdress in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:40:20,2022-07-20 09:44:23,1,1693,,,inactive,1,3,,,,,,
+725,1934,220523006ARC,6,10,50,3,2,EUR,"Hi,
+I am attaching the techpack of this thong in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:49:15,2022-07-20 09:44:10,1,1693,,,inactive,1,3,,,,,,
+726,1934,220523007ARC,7,15,50,2,2,EUR,"Hi,
+I am attaching the techpack of this kimono in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:50:28,2022-07-20 09:43:32,1,1693,,,inactive,1,3,,,,,,
+727,1934,220523008ARC,8,21,50,4,2,EUR,"Hi,
+I am attaching the pictures of this sleeping mask in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:55:56,2022-07-20 09:43:17,5,1693,,,inactive,1,3,,,,,,
+728,1934,220523009ARC,9,8,50,4,2,USD,"Hi,
+I am attaching the techpack of this lingerie pouch in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 14:57:16,2022-07-20 09:42:49,5,1693,,,inactive,1,3,,,,,,
+729,1934,220523010ARC,10,10,50,3,3,EUR,"Hi,
+I am attaching the pictures of this bralette in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 15:38:49,2022-07-20 09:43:04,1,1693,,,inactive,1,3,,,,,,
+730,1934,220523011ARC,11,15,50,2,4,EUR,"Hi,
+I am attaching the pictures of this babydoll nightdress in order to receive sampling and production quotes from your side.
+With many thanks
+Kind regards
+Ariane",,2022-05-23 15:54:53,2022-07-20 09:40:25,1,1693,,,inactive,1,3,,,,,,
+731,1936,220523001ALG,1,1,50,1,1,GBP,"I'm looing to source an organic biodegradable fabric tree guard- it can take 5 year plus to degrade
+Have given an example in attached file",,2022-05-23 16:15:36,2022-09-28 16:01:34,5,1693,,,inactive,1,1,,,,,,
+732,1937,220523001STF,1,22,50,5,2,GBP,Require you to develop a fabric tree guard for the small saplings on my farm. Must be rigid and 100% biodegradable,2022-06-17 13:33:16,2022-05-23 17:20:55,2022-06-17 13:33:16,6,1693,,,active,0,1,,,,,,
+733,1938,220526001CAB,1,3,50,5,1,USD,"This is for a sustainable designer dog clothing line. This is for our first line and we will be expanding from there. We have many ideas for our brand and are looking forward to bringing them to life. If you have any other questions my lead designer and I will be available. 
+
+Thank you",,2022-05-26 14:34:04,2022-08-08 10:47:17,6,1693,,,inactive,1,2,,,,,,
+734,1941,220526001KYA,1,10,4500,5,1,USD,"Kynd is a disruptive organization tackling the issues of menstrual waste and period poverty through the creation and promotion of ethically-produced reusable products. Our aim is to be the most sustainable and ethically produced period underwear on the market and it is important for us to be transparent around our manufacturing and to be able to prove that a high level of ethics is met at every level of the supply chain.
+
+We are looking to produce 2 styles of period underwear + a bralette. We currently have a tech pack for 1 or these 2 styles put together from our manufacturer in Bali, but it is more basic than we would like and there are some details that we are looking to change. We would love to get some assistance in re-working this tech pack and adding in the second style. I can provide physical samples and a full brief to help with this.
+
+Additionally, because we obtained our tech pack in Bali, it is in Bahasa, so I attach this to use more as a starting point than a reference on what we are looking for.
+
+In terms of fabrics, we are open to ideas on this but are ideally looking for certified sustainable fabrics such as organic cotton or Tencel. We would like to avoid synthetic fabrics wherever possible.",,2022-05-26 14:39:11,2022-12-11 14:38:55,1,402,,,active,0,1,,,,,,High leg
+735,1942,220530001E.A,1,3,50,1,3,GBP,"Needing pattern, CMT and printing on to unisex cotton t-shirts",,2022-05-30 15:31:52,2022-06-07 09:12:14,4,1693,,,inactive,0,2,,,,,,
+736,1943,220531001NOD,1,3,200,2,3,EUR,"CORE PIECES (Mid- to Heavyweight Loopback Jersey (around 400gsm), sourced ideally from raw/pre-died DEADSTOCK)
+
+SIZES: XS - 3XL
+
+- Core Hoodie (target cost € 30.00)
+- Core elasticated Sweatpants (target cost € 28.00)
+- Core tailored Sweatpants (target cost € 30.00) 
+- Core Sweatshorts	(target cost € 23.00)",,2022-05-31 11:52:22,2022-12-22 06:59:31,4,402,,,inactive,0,2,,,,,,TEST Enquiry
+737,1943,220531002NOD,2,3,200,2,3,EUR,"CORE TANKTOP (all details in attached pdf), to be sourced from ribbed 2x2 DEADSTOCK fabric
+
+SIZES: XS - 3XL",,2022-05-31 11:55:36,2023-01-27 12:36:36,4,2017,,,active,0,2,,,,,,CORE TANK TOP
+738,1943,220531003NOD,3,3,200,2,3,EUR,"CORE BABY TEE (all details in attached pdf), to be sourced from stretchy midweight t-shirt fabric (DEADSTOCK)
+
+SIZES: XS - 3XL",,2022-05-31 11:57:15,2023-01-27 11:27:20,4,2017,,,active,0,2,,,,,,CORE BABY TEE
+739,1943,220531004NOD,4,3,100,1,3,EUR,"CRAZY BABY TEE (all details in attached pdf), to be sourced from midweight stretchy t-shirt fabric (DEADSTOCK)
+
+SIZES: XS - 3XL",,2022-05-31 13:06:13,2023-01-27 11:37:45,4,2017,,,active,0,2,,,,,,CRAZY BABY TEE
+740,1943,220531005NOD,5,3,100,1,3,EUR,"BOOMERANG POLO (all details in attached pdf), to be sourced from DEADSTOCK PIQUE fabric
+
+SIZES: XS - 3XL",,2022-05-31 13:13:44,2023-01-27 11:46:25,4,2017,,,active,0,2,,,,,,BOOMERANG POLO
+741,1943,220531006NOD,6,3,100,1,3,EUR,"FURBY TOP (all details in attached pdf), FLUFFY CUT & SEW KNIT to be sourced from DEADSTOCK
+
+SIZES: XS - 3XL",,2022-05-31 13:19:16,2023-01-27 11:54:31,4,2017,,,active,0,2,,,,,,FURBY TOP
+742,1943,220531007NOD,7,3,100,1,3,EUR,"CARGHOE PANTS (all details in attached pdf), to be sourced from DEADSTOCK fabric (stretchy cottonmix twill or same loopback jersey as core depending on availability)
+
+SIZES: XS - 3XL
+
+Note: ideally we'd like to develop these pants in a stretchy twill, however if we can't find the perfect fabric in deadstock we are open to producing them in the same Loopback Sweatshirt Jersey as the CORE pieces",,2022-05-31 13:21:34,2023-01-27 13:42:45,4,2017,,,active,0,2,,,,,,CARGHOE PANT
+743,1913,220531002SID,2,17,50,3,1,GBP,"Hi, 
+I wanted to enquire about getting a cost estimate for bulk orders and a prototype being made. 
+We want to use sustainable silk for the exterior of the jacket and sustainable material on the inside of the jacket. 
+Thanks,
+Georgie",,2022-05-31 17:13:04,2022-08-08 10:48:45,1,1693,,,inactive,0,2,,,,,,
+744,1943,220601008NOD,8,3,200,2,3,EUR,"CORE HOODIE, to be sourced from mid to heavyweight loopback sweatshirt jersey (DEADSTOCK)
+
+SIZES XS-XXXL",,2022-06-01 21:33:49,2022-06-25 12:47:40,4,1693,,,inactive,0,2,,,,,,
+745,1943,220601009NOD,9,3,200,2,3,EUR,This is a duplicate of 220531001NOD,,2022-06-01 21:33:55,2022-06-25 12:48:28,4,1693,,,inactive,0,2,,,,,,
+746,1943,220601010NOD,10,3,200,2,3,EUR,This is a duplicate of 220531001NOD,,2022-06-01 21:34:01,2022-06-25 12:49:04,4,1693,,,inactive,0,2,,,,,,
+747,1943,220601011NOD,11,3,100,1,3,EUR,"FURBY SKIRT (all details in attached pdf), FLUFFY CUT & SEW KNIT to be sourced from DEADSTOCK
+
+SIZES: XS - 3XL",,2022-06-01 21:36:54,2023-01-27 11:59:35,4,2017,,,active,0,2,,,,,,FURBY SKIRT
+748,1943,220601012NOD,12,3,100,1,3,EUR,"FURBY CARDIGAN (all details in attached pdf), FLUFFY CUT & SEW KNIT to be sourced from DEADSTOCK fabric
+
+SIZES: XS - 3XL",,2022-06-01 21:36:57,2022-12-11 14:38:55,4,402,,,active,0,2,,,,,,FURBY CARDIGAN
+749,1943,220601013NOD,13,3,100,1,3,EUR,This is a duplicate of 220531004NOD,,2022-06-01 21:38:25,2022-06-25 12:50:11,4,1693,,,inactive,0,2,,,,,,
+750,1943,220601014NOD,14,3,100,1,3,EUR,"CRAZY NOTSO LONGSLEEVE (all details in attached pdf), to be sourced from midweight stretchy t-shirt fabric (DEADSTOCK)
+
+SIZES: XS - 3XL",,2022-06-01 21:38:29,2023-01-27 12:09:59,4,2017,,,active,0,2,,,,,,CRAZY NOTSO LONGSLEEVE
+751,1943,220601015NOD,15,3,100,1,3,EUR,"OFF THE CUFF POLO (all details in attached pdf), to be sourced from DEADSTOCK PIQUE fabric
+
+SIZES: XS - 3XL",,2022-06-01 21:39:29,2023-01-27 12:18:37,4,2017,,,active,0,2,,,,,,OFF THE CUFF POLO
+752,1943,220601016NOD,16,3,200,2,3,EUR,This is a duplicate of 220531001NOD,2022-06-02 13:06:35,2022-06-01 21:56:25,2022-06-02 13:06:35,4,1693,,,pending_deleted_approval,0,2,,,,,,
+753,1943,220601017NOD,17,3,200,2,3,EUR,"CORE HOODIE, to be sourced from mid to heavyweight loopback sweatshirt jersey (DEADSTOCK)
+
+SIZES XS-XXXL",,2022-06-01 22:32:52,2023-01-27 12:48:49,4,2017,,,active,0,2,,,,,,CORE HOODIE
+754,1943,220601018NOD,18,3,200,2,3,EUR,"CORE SWEATSHORTS, to be sourced from mid to heavyweight loopback sweatshirt jersey (DEADSTOCK)
+
+SIZES XS-XXXL",,2022-06-01 22:33:11,2023-01-27 12:58:28,4,2017,,,active,0,2,,,,,,CORE SWEATSHORTS
+755,1943,220601019NOD,19,3,200,2,3,EUR,"CORE TAILORED SWEATPANTS, to be sourced from mid to heavyweight loopback sweatshirt jersey (DEADSTOCK)
+
+SIZES XS-XXXL",,2022-06-01 22:33:15,2023-01-27 13:08:23,4,2017,,,active,0,2,,,,,,CORE TAILORED SWEATPANTS
+756,1943,220601020NOD,20,3,200,2,3,EUR,"CORE ELASTICATED SWEATPANTS, to be sourced from mid to heavyweight loopback sweatshirt jersey (DEADSTOCK)
+
+SIZES XS-XXXL",,2022-06-01 22:33:18,2023-01-27 13:17:58,4,2017,,62e053f127459230.pdf,active,0,2,,,,,,CORE ELASTICATED SWEATPANTS
+757,1943,220606021NOD,21,3,200,2,3,EUR,"NOTSO LONGSLEEVE (all details in attached pdf), to be sourced from midweight stretchy t-shirt jersey fabric (DEADSTOCK) SIZES: XS - 3XL",,2022-06-06 10:13:09,2023-01-27 12:25:32,4,2017,,629dc5267c1531943.pdf,active,0,2,,,,,,NOTSO LONGSLEEVE
+758,366,220606010JBA,10,1,2000,5,2,GBP,,,2022-06-06 10:14:44,2022-12-11 14:38:55,4,1693,,629dc65619b99366.png,inactive,0,1,,,,,,test
+759,366,220606011JBA,11,3,2500,3,1,GBP,,,2022-06-06 10:45:51,2022-06-16 09:52:40,4,1693,,629dd5bb19b20366.jpg,inactive,0,2,,,,,,
+760,366,220606012JBA,12,17,1000,3,4,GBP,,,2022-06-06 11:31:28,2022-06-16 09:51:36,1,1693,,629ddc88f0edf366.jpg,inactive,0,1,,,,,,
+761,366,220607013JBA,13,1,1500,3,2,GBP,,,2022-06-07 09:31:30,2022-07-20 09:42:06,1,1693,,629f2bd126191366.jpg,inactive,0,1,,,,,,
+762,1830,220607002CUA,2,21,300,3,2,USD,"We would like 22 MM Silk.  I would also like to explore bamboo as an option.  
+
+Here is something for us to also think about:  https://thehairlust.co.uk/blogs/blog/bamboo-vs-silk-pillowcase  bamboo has just as many smoothing benefits so it may not be bad to include this.
+
+The initial design was something like this:  Silk Pineapple hair wrap- cotton around the base or material suggestions for what will keep the item on during the night without slipping off.  
+
+The bonnet is about 54 cm long and should fit the standard head size.  The bonnet should fit a head size of 58cm but be adjustable to make smaller.  The width of the silk should be greater than the head size so that it can fit over the head and allow for thicker hair to fit within it.  The tie on the end is optional, but a nice touch.  The original design tie wound up breaking down over time.",,2022-06-07 15:46:24,2022-09-28 16:03:02,4,1693,,,inactive,1,2,,,,,,
+763,1830,220607003CUA,3,21,300,3,2,USD,Silk Pillow case wrap - with velcro at the backside and brushed cotton to keep it from slipping off your pillow.,,2022-06-07 15:52:52,2022-09-28 16:03:35,5,1693,,,inactive,1,2,,,,,,
+764,1947,220610001HOD,1,7,50,4,2,USD,"Short Armani satin cowl neck dress, cut on bias with open back and adjustable straps.",,2022-06-10 06:41:00,2022-07-20 09:41:52,1,1693,,,inactive,1,2,,,,,,
+765,381,220623006MAG,6,17,100,4,2,GBP,"the gingham check size is 1cm. and it is made out of 100% cotton. i have samples and potentially a tech pack.
+there should be 3 sizes- S, M and L",,2022-06-23 11:20:37,2022-06-23 11:45:00,1,1693,,,active,1,3,,,,,,
+766,381,220623007MAG,7,17,100,4,2,GBP,"This is 100% cotton gingham fabric. the check is 1cm in size.
+4 colours- baby blue, green, navy, red
+size- 6,8,10,12,14",,2022-06-23 11:23:25,2022-06-23 11:45:17,1,1693,,,active,1,3,,,,,,
+767,1957,220629001CYA,1,1,50,2,2,USD,"I'm looking for a ""tech-pants"" style design",,2022-06-29 22:10:05,2022-12-11 14:38:55,4,1693,,,inactive,1,2,,,,,,Tech-Pants
+768,1958,220704001AYD,1,3,199,4,2,USD,,,2022-07-04 11:38:30,2022-07-20 09:41:21,1,1693,,,inactive,0,2,,,,,,
+769,1959,220708001TIC,1,3,140,3,2,GBP,"Tiliano is centred on providing confidence to women who are considered to be shorter in western fashion standards. Currently, petite women are being overlooked in the fashion industry and subsequently in the modelling industry. I believe representation speaks volumes in this society as result, Tiliano hopes to put petite women on the world centre stage to make them feel beautiful, strong and empowered. 
+
+I am creating my debut collection, it consists of 3 styles; dress, playsuit and leather trousers. I would like them to be produced in sizes XS - L and would like each to produce 40 pieces of each style.",,2022-07-08 16:23:33,2022-07-13 13:24:55,1,,,,pending_deleted_approval,0,2,,,,,,
+770,1961,220712001SOC,1,3,50,4,4,USD,,,2022-07-12 15:54:18,2022-12-11 14:38:55,2,1693,,,inactive,1,2,,,,,,Jaydon01
+771,1892,220723002SPD,2,2,50,1,3,USD,Testing purposes,,2022-07-23 17:21:27,2022-08-19 19:20:25,1,1691,,,active,1,2,,,,,,
+772,1697,220725005TEC,5,11,199,9,2,USD,,,2022-07-25 13:57:57,2022-07-25 14:36:33,3,,,,inactive,1,2,,,,,,
+773,1697,220725006TEC,6,2,299,2,1,USD,,,2022-07-25 14:37:18,2022-09-07 11:00:19,2,1693,,,inactive,1,2,,,,,,
+774,1965,220802001L'A,1,3,50,3,2,EUR,"We are looking for a reliable supplier for our first clothing line. It will be basic clothes such as t-shirts, socks, hoodies etc. with only our logo on it",,2022-08-02 18:01:59,2022-09-28 15:58:55,2,1693,,,inactive,1,3,,,,,,
+775,1966,220803001ROB,1,23,300,8,1,GBP,"We currently have a range of approx 8 plain sweatshirt colours in sizes XS-XXL but are looking for a branded alternative. Colours we are looking for are:
+
+White, Grey, Black, Navy, Cream/Sand, Red, Pale Pink, Pale Blue
+
+But potentially other colours too.
+
+We are looking for a collection of high-quality, organic sweatshirts.
+
+We would be interested in having branded neck labels already woven into the sweatshirts. We'd also be interested in potentially having our logo embroidered / sewn onto the tops somewhere, eg hem.",,2022-08-03 17:06:35,2022-08-03 17:14:24,4,1693,,,active,1,2,,,,,,
+776,1968,220805001TRA,1,3,500,2,4,USD,Shipping address: Bangladesh,,2022-08-05 01:22:57,2022-08-08 14:50:05,2,1693,,62ec62e35bc2c1968.jpeg,active,0,2,,,,,,
+777,1969,220807001RHA,1,1,50,3,2,USD,,,2022-08-07 03:20:17,2022-08-08 14:38:05,1,1693,,,active,1,2,,,,,,
+778,381,220808008MAG,8,3,60,1,2,GBP,"Skirts have been made previously. Exactly same fabric and style.
+Only size 8 and 10.
+Size 8- 40X
+Size 10- 20X",,2022-08-08 11:22:42,2022-10-12 10:24:42,1,402,,,active,1,3,,,,,,
+779,381,220808009MAG,9,3,120,1,2,GBP,"Previous items have been made. Would like to increase the strap length and potentially thinner strap if possible. I have attached an image of the original and you can see the strap is slightly thinner and the top of the top is lower which can be achieved by increasing strap length. 
+
+I would like 
+size small- 70
+size medium- 50",,2022-08-08 11:31:13,2022-10-12 10:27:34,1,402,,,active,1,3,,,,,,
+780,1972,220810001WHB,1,1,50,3,3,GBP,"This is a multi functional hoodie that turned into a pullover, t-shirt and a tank top (all in one)
+
+my brand is focused on sustainability so sourcing the right fabric is key. I am looking for a recycled knitted fabric that is heavy duty and not easily worn off.",,2022-08-10 17:10:13,2022-09-28 09:56:32,4,1693,,,active,0,3,,,,,,
+781,1653,220812002YBA,2,21,50,1,1,GBP,Sleeping shorts with leak-proof protection built in for night time ultimate protection.,,2022-08-12 09:34:09,2022-08-18 09:19:43,3,1693,,,active,0,1,,,,,,
+782,1653,220812003YBA,3,1,50,1,1,GBP,"Girls leggings with additional leak-proof protection built it for exercise use or lounging in.
+1. Option 1 - cost to be provided for a zip pocket to be added in at the back of the waist
+2. Option 2 without zip",,2022-08-12 09:42:04,2022-08-18 09:18:25,3,1693,,,active,0,1,,,,,,
+783,1653,220812004YBA,4,10,50,1,1,GBP,Girls Period leak-proof pants - Boyshorts pant design,,2022-08-12 09:44:33,2022-08-25 13:51:50,3,1693,,,active,0,1,,,,,,
+784,1737,220813002SAF,2,2,50,1,3,USD,,2022-08-15 09:50:39,2022-08-13 08:36:29,2022-08-15 09:50:39,4,1693,,,active,1,1,,,,,,
+785,1916,220815005RED,5,1,300,2,2,GBP,"750 metres across 4 colours in stock in Vietnam.  
+
+Ideally would have; 
+
+300 jackets 
+300 trousers",,2022-08-15 14:05:42,2022-08-17 15:14:32,2,1693,,,active,1,2,,,,,,
+786,1721,220815006NOC,6,10,500,1,1,GBP,,,2022-08-15 16:43:34,2022-08-16 14:14:09,1,1693,,,active,0,2,,,,,,
+787,1697,220816007TEC,7,3,444,2,2,USD,This is a testing inquiry. Please ignore.,,2022-08-16 05:06:04,2022-08-16 05:06:48,3,1691,,,active,1,2,,,,,,
+788,1921,220818005AND,5,3,100,1,3,GBP,This is a duplicate of 220421004AND,2022-08-18 15:26:42,2022-08-18 15:26:14,2022-08-18 15:26:42,2,1693,,,active,1,2,,,,,,
+789,381,220823010MAG,10,27,80,2,3,GBP,i want to create jumpers like this. would this be possible?,,2022-08-23 10:18:37,2022-08-23 15:57:07,1,1693,,,active,1,3,,,,,,
+790,1892,220823003SPD,3,1,51,1,2,USD,This inquiry is for testing and disregard,,2022-08-23 12:15:00,2022-08-27 11:07:43,1,1691,,,active,1,2,,Testing Trace,1,,,
+791,1986,220824001TEG,1,4,55,1,2,USD,,,2022-08-24 08:55:53,2022-10-08 14:31:21,3,1691,,,active,0,2,,,,,,
+792,381,220824011MAG,11,4,70,2,2,GBP,"the number of colourways/ pieces is completely dependant on prices. also may consider another cotton blend if denim is too expensive but would good to be able to get some quote costs. i have sent two samples of jeans, slightly different shapes. would quite like to get samples of both. with the jeans i was thinking of different coloured stitching. so for example with the white denim having red overlocking (i think this is what it is called) stitiching. i have attached some images for reference.",,2022-08-24 13:35:42,2022-10-12 10:29:16,1,402,,,active,1,3,,,,,,
+793,1991,220824001SIE,1,1,500,3,1,USD,I need a sustainable manufacturer to make seamless activewear out of organic cotton and recycled nylon according to my designs.,,2022-08-24 17:47:57,2022-09-28 09:41:21,1,1693,,,inactive,0,2,,,,,,
+794,1852,220828002CLB,2,12,2000,1,3,USD,"Doll #2 for Clementine Collective
+Body and face details will remain the same as doll one, but the hair and outfit will differ.",,2022-08-28 14:48:54,2022-10-23 03:39:29,3,402,,,active,1,1,,,,,,
+795,1993,220831001TEH,1,4,55,1,1,USD,Testing additional information,,2022-08-31 13:03:34,2022-12-11 14:38:55,2,1691,,,active,1,1,Sunflower Denim,Sunflower Denim,0,,bit.ly/3ThgzGY,Style name testing
+796,1995,220907001THD,1,3,50,2,3,USD,fhjfyktuktul,,2022-09-07 06:49:05,2022-09-07 06:49:59,1,,,,pending_deleted_approval,1,3,,,,,,
+797,1997,220909001ALI,1,17,100,1,2,GBP,,,2022-09-09 15:25:37,2022-10-12 09:46:48,6,402,,631b6552490821693.pdf,active,1,1,,,,,,
+798,1999,220913001KIA,1,8,5000,2,2,USD,I'm looking to potentially move into organic cotton homeware.,,2022-09-13 21:53:19,2022-09-14 09:14:56,6,1693,,,active,1,1,,,,,,
+799,2000,220921001ARD,1,27,120,5,3,USD,,,2022-09-21 14:42:27,2022-09-28 09:38:11,1,1693,,,inactive,0,3,,,,,,
+800,1972,220928002WHB,2,1,50,3,1,GBP,,,2022-09-28 15:52:56,2022-12-11 14:38:56,4,402,,634da5c730b5b402.pdf,active,1,1,,,,,,hoodie
+801,2006,220928001LOC,1,1,50,3,1,USD,,,2022-09-28 21:14:52,2022-11-15 11:03:08,1,2017,,,inactive,1,3,,,,,,
+802,2007,220929001REE,1,27,1000,3,1,USD,Looking for better understanding. Let’s connect on call,,2022-09-29 10:57:15,2022-10-15 13:36:13,4,402,,,active,0,3,,,,,,
+803,2012,22100500183A,1,15,50,5,2,USD,"Biker Shorts 
+Bralettes 
+Sets",,2022-10-05 01:21:24,2022-10-05 14:23:11,1,1693,,,active,1,3,,,,,,
+804,2013,221012001SOE,1,24,150,1,3,GBP,"SC23 - 0004
+Please can we have an initial estimated costing based on 150pcs before we proceed to sampling.
+Target price is £11. This has a different coloured tape to the other womenswear styles so please let me know if this is a problem with MOQ",,2022-10-12 16:52:15,2022-12-16 11:05:44,1,2017,,639c50a139db32017.png,active,0,1,,SC23 0004 ladies racer costume,1,,,SC23-0004  LADIES RACER COSTUME
+805,2013,221012002SOE,2,24,150,1,3,GBP,"SC23-0005
+Please can we have an initial estimated cost based on 150pcs before proceeding to sample.
+Target price is £11",,2022-10-12 16:54:24,2023-01-06 10:19:39,2,2017,,63b7f59d6f9e32017.png,active,0,3,SC23 0005 Mens Logo Jammer,SC23 0005 Mens Logo Jammer,0,,bit.ly/3Clq55H,SC23 0005 MENS LOGO JAMMER
+806,1892,221015004SPD,4,1,50,1,2,USD,Testing inquiry,,2022-10-15 11:44:26,2022-10-17 14:18:11,1,1693,,,active,1,2,testing trace,testing trace,0,,bit.ly/3CABtdd,
+807,2013,221018003SOE,3,24,150,1,3,GBP,"SC23-0003
+Please cost based on 150pcs before sampling. 
+Target price is:
+Top - £11
+Bottom - £8",,2022-10-18 16:54:56,2022-12-16 10:26:58,1,2017,,,active,0,3,,SC23 0003 Adjustable Strap Ladies Bikini,1,,,SC23 0003 LADIES ADJUSTABLE STRAP BIKINIS
+808,2013,221018004SOE,4,24,150,1,3,GBP,"SC23-0003
+Please can we have an initial estimated cost based on 150pcs before proceeding to sample.
+Target price is £18",,2022-10-18 17:03:27,2022-12-16 10:28:23,1,2017,,63566401ba08f2013.pdf,active,0,3,,SC23 002 Adjustable Strap Ladies costume,1,,,SC23 0002 LADIES ADJUSTABLE STRAP COSTUME
+809,2013,221018005SOE,5,24,150,1,3,GBP,"SC23-0007
+Please advise an estimated cost based on 150pcs before proceeding to sample.
+Target Price - £8",,2022-10-18 17:23:09,2022-12-16 10:29:26,2,2017,,635664c7bb1df2013.pdf,active,0,3,,SC23 0007 Men's Logo Brief,1,,,SC23 0007 MENS LOGO BRIEF SWIM SUIT
+810,2013,221018006SOE,6,24,150,1,3,GBP,"SC23 - 0006
+Menswear Boxer Short
+Please advise an estimated cost based on 150pcs before proceeding to sample
+Target price £10",,2022-10-18 17:28:06,2022-12-16 10:21:08,2,2017,,636a747352a472013.pdf,active,0,3,,SC23 0006 - Men's Logo Boxer Swim Short,1,,,SC23 0006 LOGO BOXER SWIM SHORT
+811,476,221022005DUA,5,13,200,3,1,USD,"Backpacks; Vegan leather, materials to be sourced, draft sketches already with suppliers",,2022-10-22 01:15:22,2023-01-17 11:34:58,5,402,,,active,1,2,,,,,,
+812,476,221022006DUA,6,13,200,3,1,USD,"Overnighter/ Weekender Bag, materials to be sourced by Seamless, Vegan leather, to be completed by June 2023",,2022-10-22 01:20:35,2023-01-17 11:34:41,5,402,,,active,1,2,,,,,,
+813,476,221022007DUA,7,13,200,3,1,USD,"Detailed cross body bag/ purse: Vegan leather, materials to be sourced by Seamless Source, techpacks to be developed, to be completed by September 2023",,2022-10-22 01:26:30,2023-01-17 11:34:23,5,402,,,active,1,2,,,,,,
+814,476,221022008DUA,8,13,200,3,1,USD,"Makeup Bag: vegan leather, techpacks to be completed by Seamless, bulk order to be completed by December 2023",,2022-10-22 01:43:07,2023-01-17 11:34:14,5,402,,,active,1,2,,,,,,
+815,476,221022009DUA,9,28,75,1,1,USD,"Clear (see-through) Backpack: clear material, techpacks to replicate existing Backpack, bulk order to be completed by March 2024, limited edition style.",,2022-10-22 01:46:03,2023-01-17 10:41:41,5,402,,,active,1,2,,,,,,
+816,1916,221026006RED,6,10,150,3,1,USD,"A friend is looking for an underwear supplier, hopefully you guys can help.  
+Have a sample which is 65% bamboo viscose, 30% organic cotton, 5% elastene.  Pics attached.  
+I know Chethaka mentioned a supplier in India for more simple garments hoping they could manufacture underwear too.",,2022-10-26 14:39:06,2022-10-26 20:10:04,2,402,,,active,1,2,,,,,,
+817,366,221026014JBA,14,1,5000,3,2,USD,,,2022-10-26 17:35:31,2022-12-12 15:00:05,4,402,,,active,0,3,Circular T shirt by Seamless,Circular T shirt by Seamless,0,,bit.ly/3UgaFGg,
+818,2013,221027007SOE,7,24,150,1,2,GBP,"SC23-0008
+Mens Logo Swim Short
+Please advise the estimated price before proceeding to sample. I will advise a target price shortly.",,2022-10-27 11:03:38,2022-12-20 10:42:46,2,2017,,635a5799081192013.pdf,active,0,3,,,,,,SC23 - 0008 MENS LOGO SWIM SHORTS
+819,2013,221027008SOE,8,24,150,1,2,GBP,"SC23-0011
+Mens Branded Swim Short
+Please advise an estimated price before proceeding to sample. I will advise a target price shortly.
+Both SC23-0008 & SC23-0011 are in the sample fabric.",,2022-10-27 11:09:09,2022-12-20 11:05:41,2,2017,,635a58df018502013.pdf,active,0,3,,,,,,SC23 0011 - MENS BRANDED SWIM SHORT
+820,2023,221031001IMB,1,9,100,5,2,USD,We are looking to design luxury wear for surgeons nurses and doctors. Our product will have design features in terms of special pockets and pouches to hold materials.,,2022-10-31 06:27:44,2022-11-15 11:03:36,4,2017,,,inactive,1,3,,,,,,
+821,2022,221031001PEB,1,12,300,3,3,GBP,"As mentioned in the instruction pack please only proceed with the knitted hats and knitted socks in production. The waterproof hat is a sample and so is lower priority.
+
+Please email sid@petitpli.com with any questions. We will be following up with an official purchase order in due course. The purpose of this pack is to show you our designs and quantities.",,2022-10-31 15:39:41,2022-12-01 06:34:54,5,2017,,,active,1,3,,,,,,
+822,2013,221102009SOE,9,24,150,1,3,GBP,"SC23-0015
+Please sample in size 4-5 years & 9-10 years
+Cavico fabric as other development styles",,2022-11-02 14:47:20,2022-12-16 10:30:44,3,2017,,636283b716ffa2013.pdf,active,0,3,,,,,,SC23 0015 BOYS LOGO SWIM SHORT
+823,2013,221102010SOE,10,24,150,1,3,GBP,"SC23-0016
+Please sample in size 4-5 years & 9-10 years
+Cavico fabric",,2022-11-02 14:51:50,2022-12-16 10:31:42,3,2017,,636284311522d2013.pdf,active,0,3,,,,,,SC23 0016 GIRLS SWIMMING COSTUME
+824,2013,221102011SOE,11,24,150,1,3,GBP,"SC23-0017
+Please sample in 9-10 years only
+Cavico fabric",,2022-11-02 14:53:53,2022-12-20 11:08:40,3,2017,,6362848f6b9eb2013.pdf,active,0,3,,,,,,SC23 0017 - GIRLS BIKINI
+825,2013,221102012SOE,12,24,150,1,3,GBP,"SC23-0018
+Please sample in 4-5 years only
+Cavico fabric",,2022-11-02 14:55:00,2022-12-20 12:38:19,3,2017,,636284d41e8872013.pdf,active,0,3,,,,,,SC23 0018 - GIRLS BIKINI BRIEF
+826,2013,221102013SOE,13,24,150,1,2,GBP,"SC23-0019
+Please sample in 4-5 years & 9-10 years
+Fabric as Mens woven swim shorts",,2022-11-02 14:57:39,2022-12-20 12:39:37,3,2017,,63628571d6a962013.pdf,active,0,3,,,,,,SC23 0019 - BOYS SWIM SHORT
+827,2013,221102014SOE,14,24,150,1,3,GBP,"SC23-0020 Girls Swimming Tunic
+Please sample in size 9 years
+Cavico fabric",,2022-11-02 14:59:28,2022-12-20 12:40:38,3,2017,,636285e3798682013.pdf,active,0,3,,,,,,SC23 0020 - GIRLS SWIMMING TUNIC
+828,2013,221102015SOE,15,24,150,1,3,GBP,"SC23-0021 Girls Swimming Leggings
+Please sample in 9 years
+Cavico fabric",,2022-11-02 15:01:40,2022-12-20 12:41:42,3,2017,,6362865f11c6f2013.pdf,active,0,3,,,,,,SC23 0021 - GIRLS SWIMMING LEGGINGS
+829,2013,221102016SOE,16,24,150,1,3,GBP,"SC23-0022 Girls Swimming Hijab
+Please sample in size 9 years
+Cavico Fabric",,2022-11-02 15:02:38,2022-12-20 12:42:41,3,2017,,6362869c7271f2013.pdf,active,0,3,,,,,,SC23 0022 - GIRLS SWIMMING HIJAB
+830,2013,221102017SOE,17,24,150,1,3,GBP,"SC23-0012 Ladies Swimming Tunic
+Please sample in size small (10)
+Cavico fabric",,2022-11-02 15:04:14,2022-12-20 12:43:52,1,2017,,636286fc785a72013.pdf,active,0,3,,,,,,SC23 0012 - LADIES SWIMMING TUNIC
+831,2013,221102018SOE,18,24,150,1,3,GBP,"SC23-0013 Ladies Swimming Leggings
+Please sample in size small (10)
+Cavico fabric",,2022-11-02 15:06:12,2022-12-20 12:45:01,1,2017,,636287a7c7a252013.pdf,active,0,3,,,,,,SC23 0013 - LADIES SWIMMING LEGGINGS
+832,2013,221103019SOE,19,24,150,1,3,GBP,"SC23-0014 LADIES SWIMMING HIJAB
+Please sample in size small (10)
+Cavico fabric",,2022-11-03 00:02:02,2022-12-20 12:45:52,1,2017,,6363050b8cc832013.pdf,active,0,3,,,,,,SC23 0014 - LADIES SWIMMING HIJAB
+833,1993,221103002TEH,2,1,400,1,1,USD,,,2022-11-03 06:01:31,2022-12-14 12:52:48,1,1691,,,active,1,3,Testing 1.0,Testing 1.0,1,,bit.ly/3h3eh06,t shirt2
+834,2015,221108001ZAB,1,10,50,10,1,EUR,"DearTeam,
+
+I am writting this email to enquier about information to work with you in my brand. 
+My name is Sofía and I am the owner of an upcoming premium lingerie brand based in Spain. We are currently towards the end of production and I am looking for manufacturers that I can work with. 
+I would like to get some more information about the companies and the possibility of working together, as well as some references of brands you´ve worked with or pictures of past work. If you would like, we can also arrange a video call or meeting to see and talk about these aspects. 
+This first collection I am planning on doing will be based of 10 pieces of clothing, all with different sizes. The brand will be based on sustainability and ethical values, and all materials sourced will be organic and sustainable. That, together with the several components and delicacy that making lingerie requires, explains why it is important for me to choose the perfect manufacturer.
+
+Looking forward to hearing from you!
+
+Sofía",,2022-11-08 15:20:31,2022-11-09 14:23:33,1,2017,,,active,1,1,,,,,,
+835,2022,221109002PEB,2,12,500,1,1,USD,,,2022-11-09 07:16:18,2023-01-17 10:09:17,3,402,,,active,0,3,,,,,,
+836,1852,221114003CLB,3,28,2000,1,2,USD,"I'm looking for delicate bags to be producecd for our knit dolls. Ideally they would be branded and have a feminine, sweet look to them that match our dolls.",,2022-11-14 16:39:42,2023-01-05 08:31:20,6,402,,,active,1,2,,,,,,Mesh bag
+837,2028,221115001ESB,1,13,50,2,1,USD,I am wanting to manufacture these in a high quality apple/plant leather or an equivalent recycled material suiting the puffer style designed for these cosmetic bags. The hardware will be gold and high end.,,2022-11-15 07:14:04,2022-11-15 07:43:45,5,2017,,,active,1,2,,,,,,
+838,2031,221122001ODA,1,13,300,4,4,USD,,,2022-11-22 21:51:53,2022-11-26 16:32:44,5,2017,,,active,1,1,,,,,,
+839,2026,221128001LOD,1,10,1000,3,3,USD,"Hi,
+
+We would like to get a quote for a sanitary panty. Based on the cost would like to presell the product in Sri Lanka and share the order confirmation. 
+
+Thank you.",,2022-11-28 11:30:08,2022-11-28 12:15:28,1,2017,,,active,0,2,,,,,,
+840,1993,221214003TEH,3,1,500,2,1,USD,,,2022-12-14 14:40:26,2022-12-14 14:44:55,1,1691,,,active,1,3,,,,,,style 200
+841,2042,221219001LEC,1,10,1000,4,3,USD,,,2022-12-19 11:48:56,2023-01-23 05:37:17,1,402,,,active,1,2,,,,,,Bra
+842,2043,221230001NNA,1,15,50,3,1,GBP,,,2022-12-30 11:49:38,2022-12-30 11:50:55,1,,,,inactive,0,1,,,,,,Pyjamas
+843,1916,230123007RED,7,19,600,2,3,USD,This is a duplicate of 220412001RED,,2023-01-23 15:26:05,2023-01-23 15:28:34,2,402,,,active,1,2,,,,,,
+844,1916,230123008RED,8,19,600,2,3,USD,This is a duplicate of 220412001RED,,2023-01-23 15:26:17,2023-01-23 15:29:33,2,402,,,active,1,2,,,,,,
+845,2053,230124001QUA,1,25,1000,3,2,USD,,,2023-01-24 17:32:32,2023-01-24 18:44:50,4,402,,,active,1,2,,,,,,Chef Jacket

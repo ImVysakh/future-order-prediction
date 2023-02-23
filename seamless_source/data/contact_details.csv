@@ -1,0 +1,5 @@
+id,main_user_id,name,designation,email,mobile_number,address,created_at,updated_at
+1,1945,Sugath,Managers,abc@example.com,0094000000001,null,2022-06-06 20:25:20,2022-06-06 20:25:20
+2,2004,Sugath,Director,abc@example.com,0094000000001,null,2022-09-24 15:24:58,2022-09-24 15:24:58
+3,2037,Sugath,DIRECTOR,abc@example.com,0094000000001,null,2022-12-12 01:24:18,2022-12-12 01:24:18
+4,2041,Sugath,BDO,abc@example.com,0094000000001,null,2022-12-14 07:43:54,2022-12-14 07:43:54

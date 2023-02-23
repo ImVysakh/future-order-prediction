@@ -1,0 +1,9 @@
+id,name,created_at,updated_at,short_code,type,status,order
+1,Started,2022-12-22 04:23:01,2022-12-22 04:23:01,start,0,1,1
+2,Tech pack,2022-12-22 04:23:01,2022-12-22 04:23:01,tech_pack,0,1,2
+3,Sample fabric sourcing,2022-12-22 04:23:01,2022-12-22 04:23:01,sample_fabric,0,1,3
+4,Sample process,2022-12-22 04:23:01,2022-12-22 04:23:01,sample_process,0,1,4
+5,Bulk fabric sourcing,2022-12-22 04:23:01,2022-12-22 04:23:01,bulk_fabric,0,1,5
+6,Bulk production,2022-12-22 04:23:01,2022-12-22 04:23:01,bulk_production,0,1,6
+7,Bulk shipment,2022-12-22 04:23:01,2022-12-22 04:23:01,bulk_shipment,0,1,7
+8,Completed,2022-12-22 04:23:01,2022-12-22 04:23:01,complete,0,1,8
